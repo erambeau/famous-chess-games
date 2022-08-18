@@ -5,7 +5,7 @@ import data from '../data/chessgames_data'
 
 function MainContent() {
 
-  const cards = data.map(item => {
+  const cards = data.slice(0, 10).map(item => {
     return (
       <GameCard 
                 key={item.chessgameid}
