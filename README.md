@@ -3,7 +3,7 @@ React, HTML, CSS. I train my frontend skills publishing some famous chess games.
 
 # Methodology
 1) I retrieved a compilation of games from Timothy Glenn Forney, that you can fint out here : https://www.chessgames.com/perl/chesscollection?cid=1001601
-2) I parsed all the data with regular expression. I love regular expressions. You can see the raw data, the transformations and the final file in the folder src/data
+2) I parsed all the data with regular expression. I love regular expressions. You can see the raw data, the transformations and the final file in the folder [src/data](https://github.com/erambeau/famous-chess-games/tree/main/src/data)
 3) I took screenshots manually for 10 games. 
 4) I built the React app in order to display all the data that I just retrieved. I added some interactivity & redirection to the full game on chessgames.com
 
