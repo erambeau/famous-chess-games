@@ -5,13 +5,13 @@ I simply copied and pasted the html in a raw data file, in order to modify in in
 First Transformation
 
 IN  : </font><P><font face="verdana,arial,helvetica"><B><font size=-1>(.*)</font></B><br>\r\n<a href="/perl/chessgame\?gid=(\d{7})">(.*) vs (.*),&nbsp;(\d{4})</a>.*<font size=-1>(.*), (\d+) moves, (\d-\d)</font>
-OUT : {\r\n\ttitle: "\1",\r\n\tchessgameid: \2,\r\n\tplayer1: "\3",\r\n\tplayer2: "\4",\r\n\tyear: \5,\r\n\topening: "\6",\r\n\tnbMoves: \7,\r\n\tscore: "\8",\r\n\tfinalPosition: "../images/positions/\2.png"\r\n},
+OUT : {\r\n\ttitle: "\1",\r\n\tchessgameid: \2,\r\n\tplayer1: "\3",\r\n\tplayer2: "\4",\r\n\tyear: \5,\r\n\topening: "\6",\r\n\tnbMoves: \7,\r\n\tscore: "\8",\r\n\tfinalPosition: "/positions/\2.png"\r\n},
 
 
 Second Transformation :
 
 IN  : </font><P><font face="verdana,arial,helvetica"><a href="/perl/chessgame\?gid=(\d{7})">(.*) vs (.*),&nbsp;(\d{4})</a>.*<font size=-1>(.*), (\d+) moves, (\d-\d)</font>
-OUT : {\r\n\ttitle: "\2 vs \3 (no name)",\r\n\tchessgameid: \1,\r\n\tplayer1: "\2",\r\n\tplayer2: "\3",\r\n\tyear: \4,\r\n\topening: "\5",\r\n\tnbMoves: \6,\r\n\tscore: "\7",\r\n\tfinalPosition: "../images/positions/\1.png"\r\n},
+OUT : {\r\n\ttitle: "\2 vs \3 (no name)",\r\n\tchessgameid: \1,\r\n\tplayer1: "\2",\r\n\tplayer2: "\3",\r\n\tyear: \4,\r\n\topening: "\5",\r\n\tnbMoves: \6,\r\n\tscore: "\7",\r\n\tfinalPosition: "/positions/\1.png"\r\n},
 
 
 Manual last transformations :
