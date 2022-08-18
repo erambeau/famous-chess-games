@@ -7,6 +7,10 @@ function Header() {
             <img src={process.env.PUBLIC_URL+"/images/pieces/Chess_qlt60.png"} className='nav-header--logo' />
             <h1>Famous chess games</h1>
         </div>
+        <div className='nav-header--credits'>
+          <p>Based on a compilation of Timothy Glenn Forney you can retrieve here : <a href="https://www.chessgames.com/perl/chesscollection?cid=1001601" target="_blank">https://www.chessgames.com/perl/chesscollection?cid=1001601</a></p>
+          <p>I parsed the data, made screenshots of final positions and pushed the first 10 games for purposes of React training.</p>
+        </div>
     </nav>
   )
 }
