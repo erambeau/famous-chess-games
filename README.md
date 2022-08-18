@@ -11,7 +11,7 @@ React, HTML, CSS. I train my frontend skills publishing some famous chess games.
 
 Et voilà.
 
-![Demo](public/images/demo/demo.png)
+![Demo](public/images/demo/demo-famous-chess-games.gif)
 
 Feel free to clone the project, and run it with a `npm start` => http://localhost:3000 
 
