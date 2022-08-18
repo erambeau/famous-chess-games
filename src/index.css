@@ -52,6 +52,11 @@ code {
   align-items: center;
 }
 
+.game-link {
+  text-decoration: none;
+  color: black;
+}
+
 .game-image {
   max-width: 400px;
 }
