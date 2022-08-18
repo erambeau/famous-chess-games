@@ -8,7 +8,7 @@ export default [
 		opening: "(B07) Pirc",
 		nbMoves: 44,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1011478.png"
+		finalPosition: "../images/positions/1011478.png"
 	},
 	{
 		title: "Fischer's Immortal-The Game Of The Century.",
@@ -19,7 +19,7 @@ export default [
 		opening: "(D92) Grunfeld, 5.Bf4",
 		nbMoves: 41,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1008361.png"
+		finalPosition: "../images/positions/1008361.png"
 	},
 	{
 		title: "Nunn's Immortal",
@@ -30,7 +30,7 @@ export default [
 		opening: "(E81) King's Indian, Samisch",
 		nbMoves: 27,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1103322.png"
+		finalPosition: "../images/positions/1103322.png"
 	},
 	{
 		title: "Yusupov's Immortal",
@@ -41,7 +41,7 @@ export default [
 		opening: "(E67) King's Indian, Fianchetto",
 		nbMoves: 39,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1060180.png"
+		finalPosition: "../images/positions/1060180.png"
 	},
 	{
 		title: "Rubinstein's Immortal",
@@ -52,7 +52,7 @@ export default [
 		opening: "(D32) Queen's Gambit Declined, Tarrasch",
 		nbMoves: 25,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1119679.png"
+		finalPosition: "../images/positions/1119679.png"
 	},
 	{
 		title: "Nezhmetdinov's Immortal",
@@ -63,7 +63,7 @@ export default [
 		opening: "(A54) Old Indian, Ukrainian Variation, 4.Nf3",
 		nbMoves: 33,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1111459.png"
+		finalPosition: "../images/positions/1111459.png"
 	},
 	{
 		title: "Gufeld's Immortal",
@@ -74,7 +74,7 @@ export default [
 		opening: "(E84) King's Indian, Samisch, Panno Main line",
 		nbMoves: 32,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1023029.png"
+		finalPosition: "../images/positions/1023029.png"
 	},
 	{
 		title: "Tal's Immortal",
@@ -85,7 +85,7 @@ export default [
 		opening: "(B82) Sicilian, Scheveningen",
 		nbMoves: 37,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139729.png"
+		finalPosition: "../images/positions/1139729.png"
 	},
 	{
 		title: "The Immortal Nakamura!",
@@ -96,7 +96,7 @@ export default [
 		opening: "(A14) English",
 		nbMoves: 28,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1477101.png"
+		finalPosition: "../images/positions/1477101.png"
 	},
 	{
 		title: "The Immortal Game.",
@@ -107,7 +107,7 @@ export default [
 		opening: "(C33) King's Gambit Accepted",
 		nbMoves: 23,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1018910.png"
+		finalPosition: "../images/positions/1018910.png"
 	},
 	{
 		title: "The Most Famous Game of All Time",
@@ -118,7 +118,7 @@ export default [
 		opening: "(C41) Philidor Defense",
 		nbMoves: 17,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1233404.png"
+		finalPosition: "../images/positions/1233404.png"
 	},
 	{
 		title: "Morphy's Immortal",
@@ -129,7 +129,7 @@ export default [
 		opening: "(C39) King's Gambit Accepted",
 		nbMoves: 23,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1019060.png"
+		finalPosition: "../images/positions/1019060.png"
 	},
 	{
 		title: "30.Ba3!! Mind boggling game.",
@@ -140,7 +140,7 @@ export default [
 		opening: "(E40) Nimzo-Indian, 4.e3",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1031957.png"
+		finalPosition: "../images/positions/1031957.png"
 	},
 	{
 		title: "The Evergreen Game.",
@@ -151,7 +151,7 @@ export default [
 		opening: "(C52) Evans Gambit",
 		nbMoves: 24,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1018961.png"
+		finalPosition: "../images/positions/1018961.png"
 	},
 	{
 		title: "Simply Amazing!",
@@ -162,7 +162,7 @@ export default [
 		opening: "(B01) Scandinavian",
 		nbMoves: 30,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1186636.png"
+		finalPosition: "../images/positions/1186636.png"
 	},
 	{
 		title: "36.Rc5!! amazing depth.",
@@ -173,7 +173,7 @@ export default [
 		opening: "(C97) Ruy Lopez, Closed, Chigorin",
 		nbMoves: 43,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1140914.png"
+		finalPosition: "../images/positions/1140914.png"
 	},
 	{
 		title: "Petrov's Immortal.",
@@ -184,7 +184,7 @@ export default [
 		opening: "(C53) Giuoco Piano",
 		nbMoves: 20,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1257910.png"
+		finalPosition: "../images/positions/1257910.png"
 	},
 	{
 		title: "Zukertort's Immortal",
@@ -195,7 +195,7 @@ export default [
 		opening: "(A13) English",
 		nbMoves: 33,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1001854.png"
+		finalPosition: "../images/positions/1001854.png"
 	},
 	{
 		title: "Smyslov's Immortal",
@@ -206,7 +206,7 @@ export default [
 		opening: "(E67) King's Indian, Fianchetto",
 		nbMoves: 33,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1032320.png"
+		finalPosition: "../images/positions/1032320.png"
 	},
 	{
 		title: "Karpov's Immortal",
@@ -217,7 +217,7 @@ export default [
 		opening: "(A32) English, Symmetrical Variation",
 		nbMoves: 39,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1069169.png"
+		finalPosition: "../images/positions/1069169.png"
 	},
 	{
 		title: "Anand's Immortal",
@@ -228,10 +228,10 @@ export default [
 		opening: "(B90) Sicilian, Najdorf",
 		nbMoves: 37,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1385670.png"
+		finalPosition: "../images/positions/1385670.png"
 	},
 	{
-		title: "Capablanca's Immortal Zugzwang in the style of "My System"!",
+		title: "Capablanca's Immortal Zugzwang in the style of \"My System\"!",
 		chessgameid: 1007846,
 		player1: "Nimzowitsch",
 		player2: "Capablanca",
@@ -239,7 +239,7 @@ export default [
 		opening: "(B12) Caro-Kann Defense",
 		nbMoves: 46,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1007846.png"
+		finalPosition: "../images/positions/1007846.png"
 	},
 	{
 		title: "Double B sac,King hunt and an X-ray mate.",
@@ -250,7 +250,7 @@ export default [
 		opening: "(D30) Queen's Gambit Declined",
 		nbMoves: 32,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1102384.png"
+		finalPosition: "../images/positions/1102384.png"
 	},
 	{
 		title: "R. Byrne's Knightmare",
@@ -261,7 +261,7 @@ export default [
 		opening: "(E60) King's Indian Defense",
 		nbMoves: 21,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1008419.png"
+		finalPosition: "../images/positions/1008419.png"
 	},
 	{
 		title: "Attack on the King stuck in the center.",
@@ -272,7 +272,7 @@ export default [
 		opening: "(C54) Giuoco Piano",
 		nbMoves: 25,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1132699.png"
+		finalPosition: "../images/positions/1132699.png"
 	},
 	{
 		title: "Najdorf's Immortal",
@@ -283,7 +283,7 @@ export default [
 		opening: "(A85) Dutch, with c4 & Nc3",
 		nbMoves: 22,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1100774.png"
+		finalPosition: "../images/positions/1100774.png"
 	},
 	{
 		title: "A Brilliancy among Brilliancies.",
@@ -294,7 +294,7 @@ export default [
 		opening: "(A40) Queen's Pawn Game",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1053943.png"
+		finalPosition: "../images/positions/1053943.png"
 	},
 	{
 		title: "The  Immortal Sacrifice Exchange Game. 6 sacs  4 exchs",
@@ -305,7 +305,7 @@ export default [
 		opening: "(E70) King's Indian",
 		nbMoves: 48,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1289099.png"
+		finalPosition: "../images/positions/1289099.png"
 	},
 	{
 		title: "Best game of the match 1972.",
@@ -316,7 +316,7 @@ export default [
 		opening: "(D59) Queen's Gambit Declined, Tartakower",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044366.png"
+		finalPosition: "../images/positions/1044366.png"
 	},
 	{
 		title: "Kasparov's Gem- his favorite.",
@@ -327,7 +327,7 @@ export default [
 		opening: "(B44) Sicilian",
 		nbMoves: 40,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1067175.png"
+		finalPosition: "../images/positions/1067175.png"
 	},
 	{
 		title: "Jaw dropping game.Amazing sacrifices.",
@@ -338,7 +338,7 @@ export default [
 		opening: "(B32) Sicilian",
 		nbMoves: 33,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1260278.png"
+		finalPosition: "../images/positions/1260278.png"
 	},
 	{
 		title: "The mighty Ruy Lopez-Kasparov style.",
@@ -349,7 +349,7 @@ export default [
 		opening: "(C92) Ruy Lopez, Closed",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067209.png"
+		finalPosition: "../images/positions/1067209.png"
 	},
 	{
 		title: "Nakamura vs Shabalov no name",
@@ -360,7 +360,7 @@ export default [
 		opening: "(D35) Queen's Gambit Declined",
 		nbMoves: 30,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1340361.png"
+		finalPosition: "../images/positions/1340361.png"
 	},
 	{
 		title: "Another Immortal Sacrifice Game. 6 sacs",
@@ -371,7 +371,7 @@ export default [
 		opening: "(B18) Caro-Kann, Classical",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1340393.png"
+		finalPosition: "../images/positions/1340393.png"
 	},
 	{
 		title: "A bizarre and brilliant game with a Q sac and a windmill.",
@@ -382,7 +382,7 @@ export default [
 		opening: "(A55) Old Indian, Main line",
 		nbMoves: 51,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1084375.png"
+		finalPosition: "../images/positions/1084375.png"
 	},
 	{
 		title: "Kingside attack World Champion style.",
@@ -393,7 +393,7 @@ export default [
 		opening: "(C92) Ruy Lopez, Closed",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067294.png"
+		finalPosition: "../images/positions/1067294.png"
 	},
 	{
 		title: "Strategic R sac and game winning Q sac.Superb game!",
@@ -404,7 +404,7 @@ export default [
 		opening: "(C12) French, McCutcheon",
 		nbMoves: 37,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1268187.png"
+		finalPosition: "../images/positions/1268187.png"
 	},
 	{
 		title: "Morphy's famous queen sac.",
@@ -415,7 +415,7 @@ export default [
 		opening: "(C48) Four Knights",
 		nbMoves: 28,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1242884.png"
+		finalPosition: "../images/positions/1242884.png"
 	},
 	{
 		title: "A game we will see in a future tactics book.Brilliant!",
@@ -426,7 +426,7 @@ export default [
 		opening: "(B18) Caro-Kann, Classical",
 		nbMoves: 29,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1272702.png"
+		finalPosition: "../images/positions/1272702.png"
 	},
 	{
 		title: "R takes N on f6! Brilliant King-side attack.",
@@ -437,7 +437,7 @@ export default [
 		opening: "(B40) Sicilian",
 		nbMoves: 21,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1282608.png"
+		finalPosition: "../images/positions/1282608.png"
 	},
 	{
 		title: "Amazing King-side attack and Q sac.Very instructive.",
@@ -448,7 +448,7 @@ export default [
 		opening: "(E92) King's Indian",
 		nbMoves: 43,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1132189.png"
+		finalPosition: "../images/positions/1132189.png"
 	},
 	{
 		title: "The famous double bishop sac.",
@@ -459,7 +459,7 @@ export default [
 		opening: "(A03) Bird's Opening",
 		nbMoves: 38,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1026352.png"
+		finalPosition: "../images/positions/1026352.png"
 	},
 	{
 		title: "All Lopez players must study is brilliant game.",
@@ -470,7 +470,7 @@ export default [
 		opening: "(C65) Ruy Lopez, Berlin Defense",
 		nbMoves: 20,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1019058.png"
+		finalPosition: "../images/positions/1019058.png"
 	},
 	{
 		title: "It's always better to sacrifice your opponents pieces",
@@ -481,7 +481,7 @@ export default [
 		opening: "(A04) Reti Opening",
 		nbMoves: 24,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1427466.png"
+		finalPosition: "../images/positions/1427466.png"
 	},
 	{
 		title: "29.Bg2!! The greatest quiet move of all time.",
@@ -492,7 +492,7 @@ export default [
 		opening: "(A07) King's Indian Attack",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044267.png"
+		finalPosition: "../images/positions/1044267.png"
 	},
 	{
 		title: "A real beauty.Square by square control.",
@@ -503,7 +503,7 @@ export default [
 		opening: "(E47) Nimzo-Indian, 4.e3 O-O 5.Bd3",
 		nbMoves: 40,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1007465.png"
+		finalPosition: "../images/positions/1007465.png"
 	},
 	{
 		title: "White N outpost at d5 in the sicilian creates huge attack.",
@@ -514,7 +514,7 @@ export default [
 		opening: "(B33) Sicilian",
 		nbMoves: 36,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070747.png"
+		finalPosition: "../images/positions/1070747.png"
 	},
 	{
 		title: "The Greatest Chess Move Ever Played !!!",
@@ -525,7 +525,7 @@ export default [
 		opening: "(B23) Sicilian, Closed",
 		nbMoves: 23,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1094915.png"
+		finalPosition: "../images/positions/1094915.png"
 	},
 	{
 		title: "Rook endgame masterpiece.",
@@ -536,7 +536,7 @@ export default [
 		opening: "(A40) Queen's Pawn Game",
 		nbMoves: 52,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1102104.png"
+		finalPosition: "../images/positions/1102104.png"
 	},
 	{
 		title: "A great attack on f7,and  a brutal see-saw check.",
@@ -547,7 +547,7 @@ export default [
 		opening: "(C27) Vienna Game",
 		nbMoves: 34,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1228798.png"
+		finalPosition: "../images/positions/1228798.png"
 	},
 	{
 		title: "Brilliant game with amazing Q sac",
@@ -558,7 +558,7 @@ export default [
 		opening: "(A46) Queen's Pawn Game",
 		nbMoves: 30,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1144002.png"
+		finalPosition: "../images/positions/1144002.png"
 	},
 	{
 		title: "A Nimzo style positional brilliancy.",
@@ -569,7 +569,7 @@ export default [
 		opening: "(C98) Ruy Lopez, Closed, Chigorin",
 		nbMoves: 44,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067846.png"
+		finalPosition: "../images/positions/1067846.png"
 	},
 	{
 		title: "Amazing tactics and sacrifices.Fantastic finish.",
@@ -580,7 +580,7 @@ export default [
 		opening: "(E63) King's Indian, Fianchetto, Panno Variation",
 		nbMoves: 30,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1106725.png"
+		finalPosition: "../images/positions/1106725.png"
 	},
 	{
 		title: "The Immortal Zugzwang",
@@ -591,7 +591,7 @@ export default [
 		opening: "(E18) Queen's Indian, Old Main line, 7.Nc3",
 		nbMoves: 25,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1102400.png"
+		finalPosition: "../images/positions/1102400.png"
 	},
 	{
 		title: "Pawn Power",
@@ -602,7 +602,7 @@ export default [
 		opening: "(E16) Queen's Indian",
 		nbMoves: 29,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1007571.png"
+		finalPosition: "../images/positions/1007571.png"
 	},
 	{
 		title: "Crushing control of space.",
@@ -613,7 +613,7 @@ export default [
 		opening: "(A90) Dutch",
 		nbMoves: 53,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1012099.png"
+		finalPosition: "../images/positions/1012099.png"
 	},
 	{
 		title: "Pawn Power",
@@ -624,7 +624,7 @@ export default [
 		opening: "(C64) Ruy Lopez, Classical",
 		nbMoves: 32,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1261710.png"
+		finalPosition: "../images/positions/1261710.png"
 	},
 	{
 		title: "Tal's brilliant attack.",
@@ -635,7 +635,7 @@ export default [
 		opening: "(B63) Sicilian, Richter-Rauzer Attack",
 		nbMoves: 37,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139363.png"
+		finalPosition: "../images/positions/1139363.png"
 	},
 	{
 		title: "Capablanca's favorite game.",
@@ -646,7 +646,7 @@ export default [
 		opening: "(D63) Queen's Gambit Declined, Orthodox Defense",
 		nbMoves: 29,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1261680.png"
+		finalPosition: "../images/positions/1261680.png"
 	},
 	{
 		title: "31.Qf1!! A brilliant anti-sicilian.",
@@ -657,7 +657,7 @@ export default [
 		opening: "(B90) Sicilian, Najdorf",
 		nbMoves: 36,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1008371.png"
+		finalPosition: "../images/positions/1008371.png"
 	},
 	{
 		title: "A strategic queenside attack brilliancy.",
@@ -668,7 +668,7 @@ export default [
 		opening: "(C30) King's Gambit Declined",
 		nbMoves: 29,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1075094.png"
+		finalPosition: "../images/positions/1075094.png"
 	},
 	{
 		title: "Zwischenzug! and 2 perplexing N sacs.",
@@ -679,7 +679,7 @@ export default [
 		opening: "(E69) King's Indian, Fianchetto, Classical Main line",
 		nbMoves: 47,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1032537.png"
+		finalPosition: "../images/positions/1032537.png"
 	},
 	{
 		title: "The Rook or (hog) on the 7th rank.",
@@ -690,7 +690,7 @@ export default [
 		opening: "(A22) English",
 		nbMoves: 26,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1032787.png"
+		finalPosition: "../images/positions/1032787.png"
 	},
 	{
 		title: "A Strategic Brilliancy! very instructive.",
@@ -701,7 +701,7 @@ export default [
 		opening: "(B33) Sicilian",
 		nbMoves: 34,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1397132.png"
+		finalPosition: "../images/positions/1397132.png"
 	},
 	{
 		title: "21.Rxd4!! Fantastic use of the Bishops for mate.",
@@ -712,7 +712,7 @@ export default [
 		opening: "(C65) Ruy Lopez, Berlin Defense",
 		nbMoves: 28,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1036342.png"
+		finalPosition: "../images/positions/1036342.png"
 	},
 	{
 		title: "Sacs both Rooks .Opens H-file ,then mate.",
@@ -723,7 +723,7 @@ export default [
 		opening: "(A84) Dutch",
 		nbMoves: 35,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1003826.png"
+		finalPosition: "../images/positions/1003826.png"
 	},
 	{
 		title: "Knight torture",
@@ -734,7 +734,7 @@ export default [
 		opening: "(A00) Uncommon Opening",
 		nbMoves: 40,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1012326.png"
+		finalPosition: "../images/positions/1012326.png"
 	},
 	{
 		title: "Fischer goes hypermodern,sacs his N and B for mate.",
@@ -745,7 +745,7 @@ export default [
 		opening: "(A07) King's Indian Attack",
 		nbMoves: 36,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044324.png"
+		finalPosition: "../images/positions/1044324.png"
 	},
 	{
 		title: "Karopov's pieces go back home.Pawn Power Wins.",
@@ -756,7 +756,7 @@ export default [
 		opening: "(E86) King's Indian, Samisch, Orthodox, 7.Nge2 c6",
 		nbMoves: 27,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1067319.png"
+		finalPosition: "../images/positions/1067319.png"
 	},
 	{
 		title: "The amazing King march.",
@@ -767,7 +767,7 @@ export default [
 		opening: "(B04) Alekhine's Defense, Modern",
 		nbMoves: 34,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1124533.png"
+		finalPosition: "../images/positions/1124533.png"
 	},
 	{
 		title: "A Fischer-like N attack and King hunt.",
@@ -778,7 +778,7 @@ export default [
 		opening: "(D45) Queen's Gambit Declined Semi-Slav",
 		nbMoves: 35,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1262430.png"
+		finalPosition: "../images/positions/1262430.png"
 	},
 	{
 		title: "A truly artistic game,with an amazing Q sac.",
@@ -789,7 +789,7 @@ export default [
 		opening: "(A21) English",
 		nbMoves: 34,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1152958.png"
+		finalPosition: "../images/positions/1152958.png"
 	},
 	{
 		title: "The Swindler gets Swindled! A Famous Game.",
@@ -800,7 +800,7 @@ export default [
 		opening: "(C89) Ruy Lopez, Marshall",
 		nbMoves: 36,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1095025.png"
+		finalPosition: "../images/positions/1095025.png"
 	},
 	{
 		title: "Positional brilliancy by Kasparov.Amazing Q sac.",
@@ -811,7 +811,7 @@ export default [
 		opening: "(E92) King's Indian",
 		nbMoves: 39,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1070732.png"
+		finalPosition: "../images/positions/1070732.png"
 	},
 	{
 		title: "Polgar vs Adams no name",
@@ -822,7 +822,7 @@ export default [
 		opening: "(C89) Ruy Lopez, Marshall",
 		nbMoves: 45,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1009910.png"
+		finalPosition: "../images/positions/1009910.png"
 	},
 	{
 		title: "Oll vs Ulybin no name",
@@ -833,7 +833,7 @@ export default [
 		opening: "(C18) French, Winawer",
 		nbMoves: 34,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1258270.png"
+		finalPosition: "../images/positions/1258270.png"
 	},
 	{
 		title: "E Korchmar vs Y Polyak no name",
@@ -844,7 +844,7 @@ export default [
 		opening: "(C62) Ruy Lopez, Old Steinitz Defense",
 		nbMoves: 23,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1269834.png"
+		finalPosition: "../images/positions/1269834.png"
 	},
 	{
 		title: "Amazing skill with the minor pieces.Great exchange sacs.",
@@ -855,7 +855,7 @@ export default [
 		opening: "(E19) Queen's Indian, Old Main line, 9.Qxc3",
 		nbMoves: 34,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1042533.png"
+		finalPosition: "../images/positions/1042533.png"
 	},
 	{
 		title: "Lasker calls out the King with R exchange sacs.",
@@ -866,7 +866,7 @@ export default [
 		opening: "(D50) Queen's Gambit Declined",
 		nbMoves: 30,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1109097.png"
+		finalPosition: "../images/positions/1109097.png"
 	},
 	{
 		title: "Pillsbury vs Lasker no name",
@@ -877,7 +877,7 @@ export default [
 		opening: "(C11) French",
 		nbMoves: 50,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1109111.png"
+		finalPosition: "../images/positions/1109111.png"
 	},
 	{
 		title: "Nakamura vs S Muhammad no name",
@@ -888,7 +888,7 @@ export default [
 		opening: "(C78) Ruy Lopez",
 		nbMoves: 28,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1322027.png"
+		finalPosition: "../images/positions/1322027.png"
 	},
 	{
 		title: "Bird vs Morphy no name",
@@ -899,7 +899,7 @@ export default [
 		opening: "(C41) Philidor Defense",
 		nbMoves: 29,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1027914.png"
+		finalPosition: "../images/positions/1027914.png"
 	},
 	{
 		title: "A dynamic brilliancy by Kramnik.",
@@ -910,7 +910,7 @@ export default [
 		opening: "(B62) Sicilian, Richter-Rauzer",
 		nbMoves: 32,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1060694.png"
+		finalPosition: "../images/positions/1060694.png"
 	},
 	{
 		title: "Brilliant Tactical Game and Rook sac",
@@ -921,7 +921,7 @@ export default [
 		opening: "(B17) Caro-Kann, Steinitz Variation",
 		nbMoves: 26,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1289665.png"
+		finalPosition: "../images/positions/1289665.png"
 	},
 	{
 		title: "The threat of mate creates deadly tactics.",
@@ -932,7 +932,7 @@ export default [
 		opening: "(B99) Sicilian, Najdorf, 7...Be7 Main line",
 		nbMoves: 34,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1034337.png"
+		finalPosition: "../images/positions/1034337.png"
 	},
 	{
 		title: "A great minor piece battle.Very instructive.",
@@ -943,7 +943,7 @@ export default [
 		opening: "(C92) Ruy Lopez, Closed",
 		nbMoves: 56,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044022.png"
+		finalPosition: "../images/positions/1044022.png"
 	},
 	{
 		title: "All out attack on the uncastled King with positional sacs.",
@@ -954,7 +954,7 @@ export default [
 		opening: "(B01) Scandinavian",
 		nbMoves: 25,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1018785.png"
+		finalPosition: "../images/positions/1018785.png"
 	},
 	{
 		title: "The Q takes the R sac. R goes to the 2nd rank.",
@@ -965,7 +965,7 @@ export default [
 		opening: "(E26) Nimzo-Indian, Samisch",
 		nbMoves: 26,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1042835.png"
+		finalPosition: "../images/positions/1042835.png"
 	},
 	{
 		title: "Classic King side attack.",
@@ -976,7 +976,7 @@ export default [
 		opening: "(B09) Pirc, Austrian Attack",
 		nbMoves: 21,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1008421.png"
+		finalPosition: "../images/positions/1008421.png"
 	},
 	{
 		title: "Karpov vs Korchnoi no name",
@@ -987,7 +987,7 @@ export default [
 		opening: "(B77) Sicilian, Dragon, Yugoslav Attack",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067858.png"
+		finalPosition: "../images/positions/1067858.png"
 	},
 	{
 		title: "Tal vs Karpov no name",
@@ -998,7 +998,7 @@ export default [
 		opening: "(B10) Caro-Kann",
 		nbMoves: 30,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067017.png"
+		finalPosition: "../images/positions/1067017.png"
 	},
 	{
 		title: "Anand vs Gelfand no name",
@@ -1009,7 +1009,7 @@ export default [
 		opening: "(B90) Sicilian, Najdorf",
 		nbMoves: 66,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1387996.png"
+		finalPosition: "../images/positions/1387996.png"
 	},
 	{
 		title: "Ljubojevic vs Andersson no name",
@@ -1020,7 +1020,7 @@ export default [
 		opening: "(B47) Sicilian, Taimanov (Bastrikov) Variation",
 		nbMoves: 34,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1019762.png"
+		finalPosition: "../images/positions/1019762.png"
 	},
 	{
 		title: "Sacs both rooks and Q for a mating net on the uncastled King.",
@@ -1031,7 +1031,7 @@ export default [
 		opening: "(E70) King's Indian",
 		nbMoves: 23,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1008397.png"
+		finalPosition: "../images/positions/1008397.png"
 	},
 	{
 		title: "Polugaevsky vs E Torre no name",
@@ -1042,7 +1042,7 @@ export default [
 		opening: "(D44) Queen's Gambit Declined Semi-Slav",
 		nbMoves: 40,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1041460.png"
+		finalPosition: "../images/positions/1041460.png"
 	},
 	{
 		title: "Great N and R sacs crush the Najdorf.",
@@ -1053,7 +1053,7 @@ export default [
 		opening: "(B99) Sicilian, Najdorf, 7...Be7 Main line",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1091272.png"
+		finalPosition: "../images/positions/1091272.png"
 	},
 	{
 		title: "Ivanchuk vs Shirov no name",
@@ -1064,7 +1064,7 @@ export default [
 		opening: "(D44) Queen's Gambit Declined Semi-Slav",
 		nbMoves: 35,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1060750.png"
+		finalPosition: "../images/positions/1060750.png"
 	},
 	{
 		title: "Sacs both Rooks for pawn promotion threat.",
@@ -1075,7 +1075,7 @@ export default [
 		opening: "(E24) Nimzo-Indian, Samisch",
 		nbMoves: 47,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1090846.png"
+		finalPosition: "../images/positions/1090846.png"
 	},
 	{
 		title: "Kasparov vs Portisch no name",
@@ -1086,7 +1086,7 @@ export default [
 		opening: "(E12) Queen's Indian",
 		nbMoves: 35,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070074.png"
+		finalPosition: "../images/positions/1070074.png"
 	},
 	{
 		title: "Gruenfeld vs Alekhine no name",
@@ -1097,7 +1097,7 @@ export default [
 		opening: "(D64) Queen's Gambit Declined, Orthodox, Rubinstein Attack",
 		nbMoves: 34,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1012180.png"
+		finalPosition: "../images/positions/1012180.png"
 	},
 	{
 		title: "M Leon Hoyos vs Nakamura no name",
@@ -1108,7 +1108,7 @@ export default [
 		opening: "(A04) Reti Opening",
 		nbMoves: 53,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1390015.png"
+		finalPosition: "../images/positions/1390015.png"
 	},
 	{
 		title: "A brilliant back row mate threat.",
@@ -1119,7 +1119,7 @@ export default [
 		opening: "(A13) English",
 		nbMoves: 25,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1030774.png"
+		finalPosition: "../images/positions/1030774.png"
 	},
 	{
 		title: "Gelfand vs Kramnik no name",
@@ -1130,7 +1130,7 @@ export default [
 		opening: "(D45) Queen's Gambit Declined Semi-Slav",
 		nbMoves: 28,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1284067.png"
+		finalPosition: "../images/positions/1284067.png"
 	},
 	{
 		title: "Kramnik vs Leko no name",
@@ -1141,7 +1141,7 @@ export default [
 		opening: "(B12) Caro-Kann Defense",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1311652.png"
+		finalPosition: "../images/positions/1311652.png"
 	},
 	{
 		title: "Famous Game.",
@@ -1152,10 +1152,10 @@ export default [
 		opening: "(C23) Bishop's Opening",
 		nbMoves: 20,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1271822.png"
+		finalPosition: "../images/positions/1271822.png"
 	},
 	{
-		title: "Famous Game,"Pawns are the Soul of Chess"",
+		title: "Famous Game,\"Pawns are the Soul of Chess\"",
 		chessgameid: 1259660,
 		player1: "Philidor",
 		player2: "NN",
@@ -1163,7 +1163,7 @@ export default [
 		opening: "(C20) King's Pawn Game",
 		nbMoves: 40,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1259660.png"
+		finalPosition: "../images/positions/1259660.png"
 	},
 	{
 		title: "Charousek vs J Wollner no name",
@@ -1174,10 +1174,10 @@ export default [
 		opening: "(C21) Center Game",
 		nbMoves: 19,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1036115.png"
+		finalPosition: "../images/positions/1036115.png"
 	},
 	{
-		title: "The proverbial "Chess Battle".An all time classic.",
+		title: "The proverbial \"Chess Battle\".An all time classic.",
 		chessgameid: 1034661,
 		player1: "Bronstein",
 		player2: "Ljubojevic",
@@ -1185,7 +1185,7 @@ export default [
 		opening: "(B03) Alekhine's Defense",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1034661.png"
+		finalPosition: "../images/positions/1034661.png"
 	},
 	{
 		title: "Geller tears down the castle.",
@@ -1196,7 +1196,7 @@ export default [
 		opening: "(D87) Grunfeld, Exchange",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1049156.png"
+		finalPosition: "../images/positions/1049156.png"
 	},
 	{
 		title: "Keres nails the Najdorf with a dynamic attack.",
@@ -1207,7 +1207,7 @@ export default [
 		opening: "(B64) Sicilian, Richter-Rauzer Attack",
 		nbMoves: 23,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1136833.png"
+		finalPosition: "../images/positions/1136833.png"
 	},
 	{
 		title: "Fischer vs Geller no name",
@@ -1218,7 +1218,7 @@ export default [
 		opening: "(B89) Sicilian",
 		nbMoves: 23,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1044020.png"
+		finalPosition: "../images/positions/1044020.png"
 	},
 	{
 		title: "Fischer vs Geller no name",
@@ -1229,7 +1229,7 @@ export default [
 		opening: "(B97) Sicilian, Najdorf",
 		nbMoves: 25,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1044264.png"
+		finalPosition: "../images/positions/1044264.png"
 	},
 	{
 		title: "Kholmov vs Keres no name",
@@ -1240,7 +1240,7 @@ export default [
 		opening: "(B30) Sicilian",
 		nbMoves: 29,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1072785.png"
+		finalPosition: "../images/positions/1072785.png"
 	},
 	{
 		title: "Nakamura vs I Cheparinov no name",
@@ -1251,7 +1251,7 @@ export default [
 		opening: "(D44) Queen's Gambit Declined Semi-Slav",
 		nbMoves: 44,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1392643.png"
+		finalPosition: "../images/positions/1392643.png"
 	},
 	{
 		title: "Korchnoi vs Udovcic no name",
@@ -1262,7 +1262,7 @@ export default [
 		opening: "(C05) French, Tarrasch",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1081771.png"
+		finalPosition: "../images/positions/1081771.png"
 	},
 	{
 		title: "Fischer vs Petrosian no name",
@@ -1273,7 +1273,7 @@ export default [
 		opening: "(B42) Sicilian, Kan",
 		nbMoves: 34,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044351.png"
+		finalPosition: "../images/positions/1044351.png"
 	},
 	{
 		title: "Bronstein vs Keres no name",
@@ -1284,7 +1284,7 @@ export default [
 		opening: "(E41) Nimzo-Indian",
 		nbMoves: 39,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1033895.png"
+		finalPosition: "../images/positions/1033895.png"
 	},
 	{
 		title: "Adams vs Topalov no name",
@@ -1295,7 +1295,7 @@ export default [
 		opening: "(B84) Sicilian, Scheveningen",
 		nbMoves: 42,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1385770.png"
+		finalPosition: "../images/positions/1385770.png"
 	},
 	{
 		title: "Nakamura vs Smirin no name",
@@ -1306,7 +1306,7 @@ export default [
 		opening: "(B09) Pirc, Austrian Attack",
 		nbMoves: 22,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1355804.png"
+		finalPosition: "../images/positions/1355804.png"
 	},
 	{
 		title: "Kasparov vs Csom no name",
@@ -1317,7 +1317,7 @@ export default [
 		opening: "(E42) Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein)",
 		nbMoves: 29,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1069830.png"
+		finalPosition: "../images/positions/1069830.png"
 	},
 	{
 		title: "K Bischoff vs J Nogueiras no name",
@@ -1328,7 +1328,7 @@ export default [
 		opening: "(A11) English, Caro-Kann Defensive System",
 		nbMoves: 40,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1282935.png"
+		finalPosition: "../images/positions/1282935.png"
 	},
 	{
 		title: "Lasker vs W Napier no name",
@@ -1339,7 +1339,7 @@ export default [
 		opening: "(B25) Sicilian, Closed",
 		nbMoves: 35,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1036787.png"
+		finalPosition: "../images/positions/1036787.png"
 	},
 	{
 		title: "Larsen vs Spassky no name",
@@ -1350,7 +1350,7 @@ export default [
 		opening: "(A01) Nimzovich-Larsen Attack",
 		nbMoves: 17,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1128831.png"
+		finalPosition: "../images/positions/1128831.png"
 	},
 	{
 		title: "Fischer vs Larsen no name",
@@ -1361,7 +1361,7 @@ export default [
 		opening: "(B77) Sicilian, Dragon, Yugoslav Attack",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1008373.png"
+		finalPosition: "../images/positions/1008373.png"
 	},
 	{
 		title: "Spassky vs Fischer no name",
@@ -1372,7 +1372,7 @@ export default [
 		opening: "(E56) Nimzo-Indian, 4.e3, Main line with 7...Nc6",
 		nbMoves: 56,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044722.png"
+		finalPosition: "../images/positions/1044722.png"
 	},
 	{
 		title: "Nakamura vs T Hillarp Persson no name",
@@ -1383,7 +1383,7 @@ export default [
 		opening: "(C02) French, Advance",
 		nbMoves: 100,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1337330.png"
+		finalPosition: "../images/positions/1337330.png"
 	},
 	{
 		title: "Korchnoi vs Spassky no name",
@@ -1394,7 +1394,7 @@ export default [
 		opening: "(B71) Sicilian, Dragon, Levenfish Variation",
 		nbMoves: 12,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1080843.png"
+		finalPosition: "../images/positions/1080843.png"
 	},
 	{
 		title: "Fischer vs Tal no name",
@@ -1405,7 +1405,7 @@ export default [
 		opening: "(B87) Sicilian, Fischer-Sozin with ...a6 and ...b5",
 		nbMoves: 52,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1044001.png"
+		finalPosition: "../images/positions/1044001.png"
 	},
 	{
 		title: "Portisch vs Pinter no name",
@@ -1416,7 +1416,7 @@ export default [
 		opening: "(D41) Queen's Gambit Declined, Semi-Tarrasch",
 		nbMoves: 33,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1063968.png"
+		finalPosition: "../images/positions/1063968.png"
 	},
 	{
 		title: "Ivanchuk vs S Volkov no name",
@@ -1427,7 +1427,7 @@ export default [
 		opening: "(C11) French",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1361556.png"
+		finalPosition: "../images/positions/1361556.png"
 	},
 	{
 		title: "Capablanca vs J Corzo no name",
@@ -1438,7 +1438,7 @@ export default [
 		opening: "(D02) Queen's Pawn Game",
 		nbMoves: 60,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1262431.png"
+		finalPosition: "../images/positions/1262431.png"
 	},
 	{
 		title: "Stripunsky vs Nakamura no name",
@@ -1449,7 +1449,7 @@ export default [
 		opening: "(B76) Sicilian, Dragon, Yugoslav Attack",
 		nbMoves: 28,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1460803.png"
+		finalPosition: "../images/positions/1460803.png"
 	},
 	{
 		title: "Spassky vs Fischer no name",
@@ -1460,7 +1460,7 @@ export default [
 		opening: "(B46) Sicilian, Taimanov Variation",
 		nbMoves: 41,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1008424.png"
+		finalPosition: "../images/positions/1008424.png"
 	},
 	{
 		title: "Kasparov vs Smirin no name",
@@ -1471,7 +1471,7 @@ export default [
 		opening: "(E97) King's Indian",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070350.png"
+		finalPosition: "../images/positions/1070350.png"
 	},
 	{
 		title: "Korchnoi vs Tal no name",
@@ -1482,7 +1482,7 @@ export default [
 		opening: "(A62) Benoni, Fianchetto Variation",
 		nbMoves: 54,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1081478.png"
+		finalPosition: "../images/positions/1081478.png"
 	},
 	{
 		title: "F Thorbergsson vs Tal no name",
@@ -1493,7 +1493,7 @@ export default [
 		opening: "(E77) King's Indian",
 		nbMoves: 39,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1139701.png"
+		finalPosition: "../images/positions/1139701.png"
 	},
 	{
 		title: "Tal vs Smyslov no name",
@@ -1504,7 +1504,7 @@ export default [
 		opening: "(B10) Caro-Kann",
 		nbMoves: 26,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139475.png"
+		finalPosition: "../images/positions/1139475.png"
 	},
 	{
 		title: "Alekhine vs Yates no name",
@@ -1515,7 +1515,7 @@ export default [
 		opening: "(E62) King's Indian, Fianchetto",
 		nbMoves: 50,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1012179.png"
+		finalPosition: "../images/positions/1012179.png"
 	},
 	{
 		title: "Fischer vs Reshevsky no name",
@@ -1526,7 +1526,7 @@ export default [
 		opening: "(B32) Sicilian",
 		nbMoves: 42,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1008376.png"
+		finalPosition: "../images/positions/1008376.png"
 	},
 	{
 		title: "Spassky vs Polugaevsky no name",
@@ -1537,7 +1537,7 @@ export default [
 		opening: "(E21) Nimzo-Indian, Three Knights",
 		nbMoves: 42,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1111542.png"
+		finalPosition: "../images/positions/1111542.png"
 	},
 	{
 		title: "Spassky vs Bronstein no name",
@@ -1548,7 +1548,7 @@ export default [
 		opening: "(C36) King's Gambit Accepted, Abbazia Defense",
 		nbMoves: 23,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1034110.png"
+		finalPosition: "../images/positions/1034110.png"
 	},
 	{
 		title: "O M Hindle vs G Moehring no name",
@@ -1559,7 +1559,7 @@ export default [
 		opening: "(C44) King's Pawn Game",
 		nbMoves: 77,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1282936.png"
+		finalPosition: "../images/positions/1282936.png"
 	},
 	{
 		title: "Fischer vs Spassky no name",
@@ -1570,7 +1570,7 @@ export default [
 		opening: "(C69) Ruy Lopez, Exchange, Gligoric Variation",
 		nbMoves: 21,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044389.png"
+		finalPosition: "../images/positions/1044389.png"
 	},
 	{
 		title: "Fischer vs Larsen no name",
@@ -1581,7 +1581,7 @@ export default [
 		opening: "(C19) French, Winawer, Advance",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044346.png"
+		finalPosition: "../images/positions/1044346.png"
 	},
 	{
 		title: "Geller vs Keres no name",
@@ -1592,7 +1592,7 @@ export default [
 		opening: "(C87) Ruy Lopez",
 		nbMoves: 29,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1049696.png"
+		finalPosition: "../images/positions/1049696.png"
 	},
 	{
 		title: "Petrosian vs Pachman no name",
@@ -1603,7 +1603,7 @@ export default [
 		opening: "(A07) King's Indian Attack",
 		nbMoves: 21,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1104948.png"
+		finalPosition: "../images/positions/1104948.png"
 	},
 	{
 		title: "Smyslov vs Liberzon no name",
@@ -1614,7 +1614,7 @@ export default [
 		opening: "(A25) English",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1126235.png"
+		finalPosition: "../images/positions/1126235.png"
 	},
 	{
 		title: "THE MOST BRUTAL ATTACK OF ALL TIME",
@@ -1625,7 +1625,7 @@ export default [
 		opening: "(D42) Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3",
 		nbMoves: 26,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1071404.png"
+		finalPosition: "../images/positions/1071404.png"
 	},
 	{
 		title: "Topalov vs Aronian no name",
@@ -1636,7 +1636,7 @@ export default [
 		opening: "(E15) Queen's Indian",
 		nbMoves: 44,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1387655.png"
+		finalPosition: "../images/positions/1387655.png"
 	},
 	{
 		title: "Tal vs R Forbis no name",
@@ -1647,7 +1647,7 @@ export default [
 		opening: "(B77) Sicilian, Dragon, Yugoslav Attack",
 		nbMoves: 30,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1140969.png"
+		finalPosition: "../images/positions/1140969.png"
 	},
 	{
 		title: "Pillsbury vs Tarrasch no name",
@@ -1658,7 +1658,7 @@ export default [
 		opening: "(D63) Queen's Gambit Declined, Orthodox Defense",
 		nbMoves: 52,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1109079.png"
+		finalPosition: "../images/positions/1109079.png"
 	},
 	{
 		title: "Spassky vs Tal no name",
@@ -1669,7 +1669,7 @@ export default [
 		opening: "(E14) Queen's Indian",
 		nbMoves: 22,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1129088.png"
+		finalPosition: "../images/positions/1129088.png"
 	},
 	{
 		title: "A sneaky double Bishop sac.",
@@ -1680,7 +1680,7 @@ export default [
 		opening: "(A04) Reti Opening",
 		nbMoves: 28,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1138648.png"
+		finalPosition: "../images/positions/1138648.png"
 	},
 	{
 		title: "Fomenko vs L Radchenko no name",
@@ -1691,7 +1691,7 @@ export default [
 		opening: "(C59) Two Knights",
 		nbMoves: 25,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1224915.png"
+		finalPosition: "../images/positions/1224915.png"
 	},
 	{
 		title: "Fischer vs Unzicker no name",
@@ -1702,7 +1702,7 @@ export default [
 		opening: "(C69) Ruy Lopez, Exchange, Gligoric Variation",
 		nbMoves: 42,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044340.png"
+		finalPosition: "../images/positions/1044340.png"
 	},
 	{
 		title: "Tal vs Hecht no name",
@@ -1713,7 +1713,7 @@ export default [
 		opening: "(E12) Queen's Indian",
 		nbMoves: 49,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139582.png"
+		finalPosition: "../images/positions/1139582.png"
 	},
 	{
 		title: "C de Ronde vs H Kamstra no name",
@@ -1724,7 +1724,7 @@ export default [
 		opening: "(E80) King's Indian, Samisch Variation",
 		nbMoves: 50,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1269833.png"
+		finalPosition: "../images/positions/1269833.png"
 	},
 	{
 		title: "Fischer vs Tal no name",
@@ -1735,7 +1735,7 @@ export default [
 		opening: "(B47) Sicilian, Taimanov (Bastrikov) Variation",
 		nbMoves: 47,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1008404.png"
+		finalPosition: "../images/positions/1008404.png"
 	},
 	{
 		title: "Short vs Kasparov no name",
@@ -1746,7 +1746,7 @@ export default [
 		opening: "(B93) Sicilian, Najdorf, 6.f4",
 		nbMoves: 37,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1070587.png"
+		finalPosition: "../images/positions/1070587.png"
 	},
 	{
 		title: "A J Mestel vs Gufeld no name",
@@ -1757,7 +1757,7 @@ export default [
 		opening: "(E80) King's Indian, Samisch Variation",
 		nbMoves: 27,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1397133.png"
+		finalPosition: "../images/positions/1397133.png"
 	},
 	{
 		title: "P Romanovsky vs I Rabinovich no name",
@@ -1768,7 +1768,7 @@ export default [
 		opening: "(C16) French, Winawer",
 		nbMoves: 26,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1427465.png"
+		finalPosition: "../images/positions/1427465.png"
 	},
 	{
 		title: "M Thinius vs Beim no name",
@@ -1779,7 +1779,7 @@ export default [
 		opening: "(B08) Pirc, Classical",
 		nbMoves: 35,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1278812.png"
+		finalPosition: "../images/positions/1278812.png"
 	},
 	{
 		title: "Nakamura vs Karjakin no name",
@@ -1790,7 +1790,7 @@ export default [
 		opening: "(B23) Sicilian, Closed",
 		nbMoves: 55,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1326707.png"
+		finalPosition: "../images/positions/1326707.png"
 	},
 	{
 		title: "Fischer vs Larsen no name",
@@ -1801,7 +1801,7 @@ export default [
 		opening: "(B88) Sicilian, Fischer-Sozin Attack",
 		nbMoves: 46,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044348.png"
+		finalPosition: "../images/positions/1044348.png"
 	},
 	{
 		title: "J Friedel vs Nakamura no name",
@@ -1812,7 +1812,7 @@ export default [
 		opening: "(C11) French",
 		nbMoves: 51,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1460764.png"
+		finalPosition: "../images/positions/1460764.png"
 	},
 	{
 		title: "Ed. Lasker vs G A Thomas no name",
@@ -1823,7 +1823,7 @@ export default [
 		opening: "(A40) Queen's Pawn Game",
 		nbMoves: 18,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1259009.png"
+		finalPosition: "../images/positions/1259009.png"
 	},
 	{
 		title: "Kasparov vs Short no name",
@@ -1834,7 +1834,7 @@ export default [
 		opening: "(C84) Ruy Lopez, Closed",
 		nbMoves: 36,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070679.png"
+		finalPosition: "../images/positions/1070679.png"
 	},
 	{
 		title: "J Reinisch vs Traxler no name",
@@ -1845,7 +1845,7 @@ export default [
 		opening: "(C57) Two Knights",
 		nbMoves: 17,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1224609.png"
+		finalPosition: "../images/positions/1224609.png"
 	},
 	{
 		title: "Kasparov vs Kamsky no name",
@@ -1856,7 +1856,7 @@ export default [
 		opening: "(B80) Sicilian, Scheveningen",
 		nbMoves: 35,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1066716.png"
+		finalPosition: "../images/positions/1066716.png"
 	},
 	{
 		title: "Kasparov vs Anand no name",
@@ -1867,7 +1867,7 @@ export default [
 		opening: "(B48) Sicilian, Taimanov Variation",
 		nbMoves: 29,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1018270.png"
+		finalPosition: "../images/positions/1018270.png"
 	},
 	{
 		title: "Keene vs V Kovacevic no name",
@@ -1878,7 +1878,7 @@ export default [
 		opening: "(A06) Reti Opening",
 		nbMoves: 25,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1071336.png"
+		finalPosition: "../images/positions/1071336.png"
 	},
 	{
 		title: "Geller vs Fischer no name",
@@ -1889,7 +1889,7 @@ export default [
 		opening: "(B92) Sicilian, Najdorf, Opocensky Variation",
 		nbMoves: 40,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044555.png"
+		finalPosition: "../images/positions/1044555.png"
 	},
 	{
 		title: "Short vs R J Miles no name",
@@ -1900,7 +1900,7 @@ export default [
 		opening: "(B07) Pirc",
 		nbMoves: 25,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1123803.png"
+		finalPosition: "../images/positions/1123803.png"
 	},
 	{
 		title: "Zhao Xue vs D Reizniece-Ozola no name",
@@ -1911,7 +1911,7 @@ export default [
 		opening: "(E92) King's Indian",
 		nbMoves: 56,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1416497.png"
+		finalPosition: "../images/positions/1416497.png"
 	},
 	{
 		title: "Bobotsov vs Tal no name",
@@ -1922,7 +1922,7 @@ export default [
 		opening: "(E81) King's Indian, Samisch",
 		nbMoves: 30,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1139428.png"
+		finalPosition: "../images/positions/1139428.png"
 	},
 	{
 		title: "Karpov vs Korchnoi no name",
@@ -1933,7 +1933,7 @@ export default [
 		opening: "(E12) Queen's Indian",
 		nbMoves: 72,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1038811.png"
+		finalPosition: "../images/positions/1038811.png"
 	},
 	{
 		title: "Korchnoi vs Karpov no name",
@@ -1944,7 +1944,7 @@ export default [
 		opening: "(E17) Queen's Indian",
 		nbMoves: 19,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067831.png"
+		finalPosition: "../images/positions/1067831.png"
 	},
 	{
 		title: "Geller vs Karpov no name",
@@ -1955,7 +1955,7 @@ export default [
 		opening: "(C16) French, Winawer",
 		nbMoves: 42,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1049829.png"
+		finalPosition: "../images/positions/1049829.png"
 	},
 	{
 		title: "Geller vs Kogan no name",
@@ -1966,7 +1966,7 @@ export default [
 		opening: "(B53) Sicilian",
 		nbMoves: 34,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1048417.png"
+		finalPosition: "../images/positions/1048417.png"
 	},
 	{
 		title: "Tal vs Sviridov no name",
@@ -1977,7 +1977,7 @@ export default [
 		opening: "(B75) Sicilian, Dragon, Yugoslav Attack",
 		nbMoves: 18,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139414.png"
+		finalPosition: "../images/positions/1139414.png"
 	},
 	{
 		title: "Tal vs J Miller no name",
@@ -1988,7 +1988,7 @@ export default [
 		opening: "(C55) Two Knights Defense",
 		nbMoves: 33,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1259999.png"
+		finalPosition: "../images/positions/1259999.png"
 	},
 	{
 		title: "Tartakower vs Euwe no name",
@@ -1999,7 +1999,7 @@ export default [
 		opening: "(C53) Giuoco Piano",
 		nbMoves: 42,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1156038.png"
+		finalPosition: "../images/positions/1156038.png"
 	},
 	{
 		title: "Euwe vs Alekhine no name",
@@ -2010,7 +2010,7 @@ export default [
 		opening: "(A90) Dutch",
 		nbMoves: 47,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1013180.png"
+		finalPosition: "../images/positions/1013180.png"
 	},
 	{
 		title: "Euwe vs Najdorf no name",
@@ -2021,7 +2021,7 @@ export default [
 		opening: "(E60) King's Indian Defense",
 		nbMoves: 37,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1042813.png"
+		finalPosition: "../images/positions/1042813.png"
 	},
 	{
 		title: "Euwe vs S B van Mindeno no name",
@@ -2032,7 +2032,7 @@ export default [
 		opening: "(C54) Giuoco Piano",
 		nbMoves: 17,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1042266.png"
+		finalPosition: "../images/positions/1042266.png"
 	},
 	{
 		title: "Fischer vs S Schweber no name",
@@ -2043,7 +2043,7 @@ export default [
 		opening: "(C18) French, Winawer",
 		nbMoves: 47,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044333.png"
+		finalPosition: "../images/positions/1044333.png"
 	},
 	{
 		title: "Blackburne vs J Schwarz no name",
@@ -2054,7 +2054,7 @@ export default [
 		opening: "(C01) French, Exchange",
 		nbMoves: 28,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1029022.png"
+		finalPosition: "../images/positions/1029022.png"
 	},
 	{
 		title: "B Greenwald vs Fischer no name",
@@ -2065,7 +2065,7 @@ export default [
 		opening: "(D86) Grunfeld, Exchange",
 		nbMoves: 29,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1044578.png"
+		finalPosition: "../images/positions/1044578.png"
 	},
 	{
 		title: "Bogoljubov vs J Mieses no name",
@@ -2076,7 +2076,7 @@ export default [
 		opening: "(A90) Dutch",
 		nbMoves: 35,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1007170.png"
+		finalPosition: "../images/positions/1007170.png"
 	},
 	{
 		title: "Bogoljubov vs Spielmann no name",
@@ -2087,7 +2087,7 @@ export default [
 		opening: "(C13) French",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1030643.png"
+		finalPosition: "../images/positions/1030643.png"
 	},
 	{
 		title: "Nimzowitsch vs Hakansson no name",
@@ -2098,7 +2098,7 @@ export default [
 		opening: "(C02) French, Advance",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1102392.png"
+		finalPosition: "../images/positions/1102392.png"
 	},
 	{
 		title: "Nimzowitsch vs Rubinstein no name",
@@ -2109,7 +2109,7 @@ export default [
 		opening: "(A34) English, Symmetrical",
 		nbMoves: 46,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1007481.png"
+		finalPosition: "../images/positions/1007481.png"
 	},
 	{
 		title: "Nimzowitsch vs Alapin no name",
@@ -2120,7 +2120,7 @@ export default [
 		opening: "(C11) French",
 		nbMoves: 18,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1102375.png"
+		finalPosition: "../images/positions/1102375.png"
 	},
 	{
 		title: "N Mannheimer vs Nimzowitsch no name",
@@ -2131,7 +2131,7 @@ export default [
 		opening: "(C01) French, Exchange",
 		nbMoves: 44,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1102446.png"
+		finalPosition: "../images/positions/1102446.png"
 	},
 	{
 		title: "Steinitz vs Rock no name",
@@ -2142,7 +2142,7 @@ export default [
 		opening: "(000) Chess variants",
 		nbMoves: 18,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1274802.png"
+		finalPosition: "../images/positions/1274802.png"
 	},
 	{
 		title: "Steinitz vs Paulsen no name",
@@ -2153,7 +2153,7 @@ export default [
 		opening: "(C25) Vienna",
 		nbMoves: 36,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1255422.png"
+		finalPosition: "../images/positions/1255422.png"
 	},
 	{
 		title: "Zukertort vs Steinitz no name",
@@ -2164,7 +2164,7 @@ export default [
 		opening: "(D50) Queen's Gambit Declined",
 		nbMoves: 29,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1132661.png"
+		finalPosition: "../images/positions/1132661.png"
 	},
 	{
 		title: "Botvinnik vs Chekhover no name",
@@ -2175,7 +2175,7 @@ export default [
 		opening: "(A13) English",
 		nbMoves: 43,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1031877.png"
+		finalPosition: "../images/positions/1031877.png"
 	},
 	{
 		title: "Botvinnik vs Keres no name",
@@ -2186,7 +2186,7 @@ export default [
 		opening: "(A29) English, Four Knights, Kingside Fianchetto",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1032736.png"
+		finalPosition: "../images/positions/1032736.png"
 	},
 	{
 		title: "Botvinnik vs Vidmar no name",
@@ -2197,7 +2197,7 @@ export default [
 		opening: "(D60) Queen's Gambit Declined, Orthodox Defense",
 		nbMoves: 24,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1008258.png"
+		finalPosition: "../images/positions/1008258.png"
 	},
 	{
 		title: "Chigorin vs Znosko-Borovsky no name",
@@ -2208,7 +2208,7 @@ export default [
 		opening: "(C31) King's Gambit Declined, Falkbeer Counter Gambit",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1036571.png"
+		finalPosition: "../images/positions/1036571.png"
 	},
 	{
 		title: "Chigorin vs J Mortimer no name",
@@ -2219,7 +2219,7 @@ export default [
 		opening: "(C25) Vienna",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1000089.png"
+		finalPosition: "../images/positions/1000089.png"
 	},
 	{
 		title: "Lasker vs Capablanca no name",
@@ -2230,7 +2230,7 @@ export default [
 		opening: "(C68) Ruy Lopez, Exchange",
 		nbMoves: 42,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1258181.png"
+		finalPosition: "../images/positions/1258181.png"
 	},
 	{
 		title: "Euwe vs Lasker no name",
@@ -2241,7 +2241,7 @@ export default [
 		opening: "(D51) Queen's Gambit Declined",
 		nbMoves: 50,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1008008.png"
+		finalPosition: "../images/positions/1008008.png"
 	},
 	{
 		title: "F Bohatirchuk vs L Savitsky no name",
@@ -2252,7 +2252,7 @@ export default [
 		opening: "(C78) Ruy Lopez",
 		nbMoves: 28,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1240066.png"
+		finalPosition: "../images/positions/1240066.png"
 	},
 	{
 		title: "Chekhover vs Kasparian no name",
@@ -2263,7 +2263,7 @@ export default [
 		opening: "(E67) King's Indian, Fianchetto",
 		nbMoves: 33,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1384082.png"
+		finalPosition: "../images/positions/1384082.png"
 	},
 	{
 		title: "Tisdall vs G D Lee no name",
@@ -2274,7 +2274,7 @@ export default [
 		opening: "(B40) Sicilian",
 		nbMoves: 19,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1282938.png"
+		finalPosition: "../images/positions/1282938.png"
 	},
 	{
 		title: "Fischer vs Mecking no name",
@@ -2285,7 +2285,7 @@ export default [
 		opening: "(A01) Nimzovich-Larsen Attack",
 		nbMoves: 42,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044318.png"
+		finalPosition: "../images/positions/1044318.png"
 	},
 	{
 		title: "K Georgiev vs Miles no name",
@@ -2296,7 +2296,7 @@ export default [
 		opening: "(B00) Uncommon King's Pawn Opening",
 		nbMoves: 38,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1098271.png"
+		finalPosition: "../images/positions/1098271.png"
 	},
 	{
 		title: "Kasparov vs Andersson no name",
@@ -2307,7 +2307,7 @@ export default [
 		opening: "(E12) Queen's Indian",
 		nbMoves: 30,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1069976.png"
+		finalPosition: "../images/positions/1069976.png"
 	},
 	{
 		title: "Kasparov vs Karpov no name",
@@ -2318,7 +2318,7 @@ export default [
 		opening: "(B17) Caro-Kann, Steinitz Variation",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067057.png"
+		finalPosition: "../images/positions/1067057.png"
 	},
 	{
 		title: "Spassky vs Fischer no name",
@@ -2329,7 +2329,7 @@ export default [
 		opening: "(A61) Benoni",
 		nbMoves: 41,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1044727.png"
+		finalPosition: "../images/positions/1044727.png"
 	},
 	{
 		title: "Kasparov vs Karpov no name",
@@ -2340,7 +2340,7 @@ export default [
 		opening: "(C45) Scotch Game",
 		nbMoves: 102,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067288.png"
+		finalPosition: "../images/positions/1067288.png"
 	},
 	{
 		title: "Keene vs Robatsch no name",
@@ -2351,7 +2351,7 @@ export default [
 		opening: "(E08) Catalan, Closed",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1071316.png"
+		finalPosition: "../images/positions/1071316.png"
 	},
 	{
 		title: "P Ofstad vs Uhlmann no name",
@@ -2362,7 +2362,7 @@ export default [
 		opening: "(C07) French, Tarrasch",
 		nbMoves: 19,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1144211.png"
+		finalPosition: "../images/positions/1144211.png"
 	},
 	{
 		title: "Motylev vs Bu Xiangzhi no name",
@@ -2373,7 +2373,7 @@ export default [
 		opening: "(B90) Sicilian, Najdorf",
 		nbMoves: 34,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1351975.png"
+		finalPosition: "../images/positions/1351975.png"
 	},
 	{
 		title: "Shirov vs Kasparov no name",
@@ -2384,7 +2384,7 @@ export default [
 		opening: "(E86) King's Indian, Samisch, Orthodox, 7.Nge2 c6",
 		nbMoves: 40,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1070591.png"
+		finalPosition: "../images/positions/1070591.png"
 	},
 	{
 		title: "Lputian vs Kasparov no name",
@@ -2395,7 +2395,7 @@ export default [
 		opening: "(E80) King's Indian, Samisch Variation",
 		nbMoves: 38,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1069599.png"
+		finalPosition: "../images/positions/1069599.png"
 	},
 	{
 		title: "M Lowcki vs Tartakower no name",
@@ -2406,7 +2406,7 @@ export default [
 		opening: "(C41) Philidor Defense",
 		nbMoves: 39,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1295503.png"
+		finalPosition: "../images/positions/1295503.png"
 	},
 	{
 		title: "Keene vs S Kerr no name",
@@ -2417,7 +2417,7 @@ export default [
 		opening: "(E45) Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation",
 		nbMoves: 22,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1290337.png"
+		finalPosition: "../images/positions/1290337.png"
 	},
 	{
 		title: "Kasparov vs Karpov no name",
@@ -2428,7 +2428,7 @@ export default [
 		opening: "(C92) Ruy Lopez, Closed",
 		nbMoves: 44,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067283.png"
+		finalPosition: "../images/positions/1067283.png"
 	},
 	{
 		title: "J F Barry vs Pillsbury no name",
@@ -2439,7 +2439,7 @@ export default [
 		opening: "(C65) Ruy Lopez, Berlin Defense",
 		nbMoves: 44,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1109053.png"
+		finalPosition: "../images/positions/1109053.png"
 	},
 	{
 		title: "Smyslov vs Liberzon no name",
@@ -2450,7 +2450,7 @@ export default [
 		opening: "(A10) English",
 		nbMoves: 32,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1126259.png"
+		finalPosition: "../images/positions/1126259.png"
 	},
 	{
 		title: "Tal vs Leonov no name",
@@ -2461,7 +2461,7 @@ export default [
 		opening: "(B13) Caro-Kann, Exchange",
 		nbMoves: 25,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139126.png"
+		finalPosition: "../images/positions/1139126.png"
 	},
 	{
 		title: "L Day vs Suttles no name",
@@ -2472,7 +2472,7 @@ export default [
 		opening: "(A41) Queen's Pawn Game (with ...d6)",
 		nbMoves: 40,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1037402.png"
+		finalPosition: "../images/positions/1037402.png"
 	},
 	{
 		title: "Ed. Lasker vs B Winkelman no name",
@@ -2483,7 +2483,7 @@ export default [
 		opening: "(D60) Queen's Gambit Declined, Orthodox Defense",
 		nbMoves: 19,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1242921.png"
+		finalPosition: "../images/positions/1242921.png"
 	},
 	{
 		title: "Lilienthal vs R Nezhmetdinov no name",
@@ -2494,7 +2494,7 @@ export default [
 		opening: "(A54) Old Indian, Ukrainian Variation, 4.Nf3",
 		nbMoves: 28,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1102154.png"
+		finalPosition: "../images/positions/1102154.png"
 	},
 	{
 		title: "Maczynski vs W H Pratten no name",
@@ -2505,7 +2505,7 @@ export default [
 		opening: "(C53) Giuoco Piano",
 		nbMoves: 22,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1242961.png"
+		finalPosition: "../images/positions/1242961.png"
 	},
 	{
 		title: "Capablanca vs K Treybal no name",
@@ -2516,7 +2516,7 @@ export default [
 		opening: "(D11) Queen's Gambit Declined Slav",
 		nbMoves: 58,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1066825.png"
+		finalPosition: "../images/positions/1066825.png"
 	},
 	{
 		title: "Marshall vs Capablanca no name",
@@ -2527,7 +2527,7 @@ export default [
 		opening: "(D33) Queen's Gambit Declined, Tarrasch",
 		nbMoves: 49,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1094832.png"
+		finalPosition: "../images/positions/1094832.png"
 	},
 	{
 		title: "H Olafsson vs J Levitt no name",
@@ -2538,7 +2538,7 @@ export default [
 		opening: "(A30) English, Symmetrical",
 		nbMoves: 28,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1316413.png"
+		finalPosition: "../images/positions/1316413.png"
 	},
 	{
 		title: "Lutikov vs Velimirovic no name",
@@ -2549,7 +2549,7 @@ export default [
 		opening: "(A46) Queen's Pawn Game",
 		nbMoves: 30,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1266942.png"
+		finalPosition: "../images/positions/1266942.png"
 	},
 	{
 		title: "Fischer vs Portisch no name",
@@ -2560,7 +2560,7 @@ export default [
 		opening: "(C69) Ruy Lopez, Exchange, Gligoric Variation",
 		nbMoves: 34,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044249.png"
+		finalPosition: "../images/positions/1044249.png"
 	},
 	{
 		title: "Averbakh vs Korchnoi no name",
@@ -2571,7 +2571,7 @@ export default [
 		opening: "(A49) King's Indian, Fianchetto without c4",
 		nbMoves: 39,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1081648.png"
+		finalPosition: "../images/positions/1081648.png"
 	},
 	{
 		title: "Velimirovic vs Csom no name",
@@ -2582,7 +2582,7 @@ export default [
 		opening: "(B90) Sicilian, Najdorf",
 		nbMoves: 26,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1291226.png"
+		finalPosition: "../images/positions/1291226.png"
 	},
 	{
 		title: "M Szigeti vs Benko no name",
@@ -2593,7 +2593,7 @@ export default [
 		opening: "(D44) Queen's Gambit Declined Semi-Slav",
 		nbMoves: 38,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1284178.png"
+		finalPosition: "../images/positions/1284178.png"
 	},
 	{
 		title: "Tal vs Portisch no name",
@@ -2604,7 +2604,7 @@ export default [
 		opening: "(B10) Caro-Kann",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1113164.png"
+		finalPosition: "../images/positions/1113164.png"
 	},
 	{
 		title: "Ivkov vs Portisch no name",
@@ -2615,7 +2615,7 @@ export default [
 		opening: "(C18) French, Winawer",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1061663.png"
+		finalPosition: "../images/positions/1061663.png"
 	},
 	{
 		title: "Fischer vs U Geller no name",
@@ -2626,7 +2626,7 @@ export default [
 		opening: "(A07) King's Indian Attack",
 		nbMoves: 32,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044281.png"
+		finalPosition: "../images/positions/1044281.png"
 	},
 	{
 		title: "Pachman vs O Neikirch no name",
@@ -2637,7 +2637,7 @@ export default [
 		opening: "(D41) Queen's Gambit Declined, Semi-Tarrasch",
 		nbMoves: 26,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1104888.png"
+		finalPosition: "../images/positions/1104888.png"
 	},
 	{
 		title: "Pachman vs Fischer no name",
@@ -2648,7 +2648,7 @@ export default [
 		opening: "(E10) Queen's Pawn Game",
 		nbMoves: 40,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044493.png"
+		finalPosition: "../images/positions/1044493.png"
 	},
 	{
 		title: "Tal vs Simagin no name",
@@ -2659,7 +2659,7 @@ export default [
 		opening: "(B07) Pirc",
 		nbMoves: 45,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1125166.png"
+		finalPosition: "../images/positions/1125166.png"
 	},
 	{
 		title: "Pachman vs Eckert no name",
@@ -2670,7 +2670,7 @@ export default [
 		opening: "(C13) French",
 		nbMoves: 24,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1104680.png"
+		finalPosition: "../images/positions/1104680.png"
 	},
 	{
 		title: "Kasparov vs P Nikolic no name",
@@ -2681,7 +2681,7 @@ export default [
 		opening: "(D10) Queen's Gambit Declined Slav",
 		nbMoves: 37,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070629.png"
+		finalPosition: "../images/positions/1070629.png"
 	},
 	{
 		title: "Kasparov vs Wahls no name",
@@ -2692,7 +2692,7 @@ export default [
 		opening: "(B07) Pirc",
 		nbMoves: 37,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070568.png"
+		finalPosition: "../images/positions/1070568.png"
 	},
 	{
 		title: "Lasker vs Capablanca no name",
@@ -2703,7 +2703,7 @@ export default [
 		opening: "(D61) Queen's Gambit Declined, Orthodox, Rubinstein Attack",
 		nbMoves: 68,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1241504.png"
+		finalPosition: "../images/positions/1241504.png"
 	},
 	{
 		title: "Kasparov vs Gelfand no name",
@@ -2714,7 +2714,7 @@ export default [
 		opening: "(D45) Queen's Gambit Declined Semi-Slav",
 		nbMoves: 38,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1048116.png"
+		finalPosition: "../images/positions/1048116.png"
 	},
 	{
 		title: "Psakhis vs Kasparov no name",
@@ -2725,7 +2725,7 @@ export default [
 		opening: "(A10) English",
 		nbMoves: 30,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1070513.png"
+		finalPosition: "../images/positions/1070513.png"
 	},
 	{
 		title: "Ivanchuk vs Kasparov no name",
@@ -2736,7 +2736,7 @@ export default [
 		opening: "(B97) Sicilian, Najdorf",
 		nbMoves: 46,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1060119.png"
+		finalPosition: "../images/positions/1060119.png"
 	},
 	{
 		title: "Kasparov vs Pribyl no name",
@@ -2747,7 +2747,7 @@ export default [
 		opening: "(D85) Grunfeld",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1069896.png"
+		finalPosition: "../images/positions/1069896.png"
 	},
 	{
 		title: "Ljubojevic vs Kasparov no name",
@@ -2758,7 +2758,7 @@ export default [
 		opening: "(B96) Sicilian, Najdorf",
 		nbMoves: 37,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1070487.png"
+		finalPosition: "../images/positions/1070487.png"
 	},
 	{
 		title: "Kasparov vs Gheorghiu no name",
@@ -2769,7 +2769,7 @@ export default [
 		opening: "(E12) Queen's Indian",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070019.png"
+		finalPosition: "../images/positions/1070019.png"
 	},
 	{
 		title: "Piket vs Kasparov no name",
@@ -2780,7 +2780,7 @@ export default [
 		opening: "(E99) King's Indian, Orthodox, Taimanov",
 		nbMoves: 28,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1070485.png"
+		finalPosition: "../images/positions/1070485.png"
 	},
 	{
 		title: "Kasparov vs Salov no name",
@@ -2791,7 +2791,7 @@ export default [
 		opening: "(A15) English",
 		nbMoves: 29,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070415.png"
+		finalPosition: "../images/positions/1070415.png"
 	},
 	{
 		title: "Yusupov vs Kasparov no name",
@@ -2802,7 +2802,7 @@ export default [
 		opening: "(E92) King's Indian",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070408.png"
+		finalPosition: "../images/positions/1070408.png"
 	},
 	{
 		title: "Speelman vs Kasparov no name",
@@ -2813,7 +2813,7 @@ export default [
 		opening: "(E92) King's Indian",
 		nbMoves: 39,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1070446.png"
+		finalPosition: "../images/positions/1070446.png"
 	},
 	{
 		title: "Ehlvest vs Kasparov no name",
@@ -2824,7 +2824,7 @@ export default [
 		opening: "(A28) English",
 		nbMoves: 25,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1070382.png"
+		finalPosition: "../images/positions/1070382.png"
 	},
 	{
 		title: "Timman vs Kasparov no name",
@@ -2835,7 +2835,7 @@ export default [
 		opening: "(E88) King's Indian, Samisch, Orthodox, 7.d5 c6",
 		nbMoves: 45,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1070378.png"
+		finalPosition: "../images/positions/1070378.png"
 	},
 	{
 		title: "Kasparov vs Ivanchuk no name",
@@ -2846,7 +2846,7 @@ export default [
 		opening: "(A29) English, Four Knights, Kingside Fianchetto",
 		nbMoves: 24,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070341.png"
+		finalPosition: "../images/positions/1070341.png"
 	},
 	{
 		title: "Kasparov vs A Sokolov no name",
@@ -2857,7 +2857,7 @@ export default [
 		opening: "(A19) English, Mikenas-Carls, Sicilian Variation",
 		nbMoves: 42,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070307.png"
+		finalPosition: "../images/positions/1070307.png"
 	},
 	{
 		title: "Kasparov vs Andersson no name",
@@ -2868,7 +2868,7 @@ export default [
 		opening: "(D36) Queen's Gambit Declined, Exchange, Positional line, 6.Qc2",
 		nbMoves: 38,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070305.png"
+		finalPosition: "../images/positions/1070305.png"
 	},
 	{
 		title: "Kasparov vs Karpov no name",
@@ -2879,7 +2879,7 @@ export default [
 		opening: "(B17) Caro-Kann, Steinitz Variation",
 		nbMoves: 63,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067027.png"
+		finalPosition: "../images/positions/1067027.png"
 	},
 	{
 		title: "Kasparov vs Karpov no name",
@@ -2890,7 +2890,7 @@ export default [
 		opening: "(A13) English",
 		nbMoves: 64,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067242.png"
+		finalPosition: "../images/positions/1067242.png"
 	},
 	{
 		title: "Kasparov vs Karpov no name",
@@ -2901,7 +2901,7 @@ export default [
 		opening: "(A21) English",
 		nbMoves: 50,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067247.png"
+		finalPosition: "../images/positions/1067247.png"
 	},
 	{
 		title: "Kasparov vs Tal no name",
@@ -2912,7 +2912,7 @@ export default [
 		opening: "(E48) Nimzo-Indian, 4.e3 O-O 5.Bd3 d5",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070236.png"
+		finalPosition: "../images/positions/1070236.png"
 	},
 	{
 		title: "Kasparov vs Karpov no name",
@@ -2923,7 +2923,7 @@ export default [
 		opening: "(D55) Queen's Gambit Declined",
 		nbMoves: 46,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067214.png"
+		finalPosition: "../images/positions/1067214.png"
 	},
 	{
 		title: "Tal vs A Vooremaa no name",
@@ -2934,7 +2934,7 @@ export default [
 		opening: "(B48) Sicilian, Taimanov Variation",
 		nbMoves: 29,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1140006.png"
+		finalPosition: "../images/positions/1140006.png"
 	},
 	{
 		title: "Karpov vs Kasparov no name",
@@ -2945,7 +2945,7 @@ export default [
 		opening: "(B84) Sicilian, Scheveningen",
 		nbMoves: 42,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1067179.png"
+		finalPosition: "../images/positions/1067179.png"
 	},
 	{
 		title: "Kasparov vs Karpov no name",
@@ -2956,7 +2956,7 @@ export default [
 		opening: "(E12) Queen's Indian",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067136.png"
+		finalPosition: "../images/positions/1067136.png"
 	},
 	{
 		title: "Malinin vs A Andreev no name",
@@ -2967,7 +2967,7 @@ export default [
 		opening: "(A58) Benko Gambit",
 		nbMoves: 32,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1039163.png"
+		finalPosition: "../images/positions/1039163.png"
 	},
 	{
 		title: "Tal vs M Pasman no name",
@@ -2978,7 +2978,7 @@ export default [
 		opening: "(B93) Sicilian, Najdorf, 6.f4",
 		nbMoves: 40,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139189.png"
+		finalPosition: "../images/positions/1139189.png"
 	},
 	{
 		title: "Nakamura vs Pelletier no name",
@@ -2989,7 +2989,7 @@ export default [
 		opening: "(C02) French, Advance",
 		nbMoves: 52,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1349054.png"
+		finalPosition: "../images/positions/1349054.png"
 	},
 	{
 		title: "Anand vs Ivanchuk no name",
@@ -3000,7 +3000,7 @@ export default [
 		opening: "(C78) Ruy Lopez",
 		nbMoves: 46,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1060709.png"
+		finalPosition: "../images/positions/1060709.png"
 	},
 	{
 		title: "Brzozka vs Bronstein no name",
@@ -3011,7 +3011,7 @@ export default [
 		opening: "(A88) Dutch, Leningrad, Main Variation with c6",
 		nbMoves: 70,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1262289.png"
+		finalPosition: "../images/positions/1262289.png"
 	},
 	{
 		title: "Topalov vs Shirov no name",
@@ -3022,7 +3022,7 @@ export default [
 		opening: "(D85) Grunfeld",
 		nbMoves: 53,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1143956.png"
+		finalPosition: "../images/positions/1143956.png"
 	},
 	{
 		title: "Granda Zuniga vs Seirawan no name",
@@ -3033,7 +3033,7 @@ export default [
 		opening: "(A15) English",
 		nbMoves: 56,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1052923.png"
+		finalPosition: "../images/positions/1052923.png"
 	},
 	{
 		title: "Karpov vs Huebner no name",
@@ -3044,7 +3044,7 @@ export default [
 		opening: "(B18) Caro-Kann, Classical",
 		nbMoves: 37,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1066997.png"
+		finalPosition: "../images/positions/1066997.png"
 	},
 	{
 		title: "Kamsky vs Polgar no name",
@@ -3055,7 +3055,7 @@ export default [
 		opening: "(B45) Sicilian, Taimanov",
 		nbMoves: 38,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1066762.png"
+		finalPosition: "../images/positions/1066762.png"
 	},
 	{
 		title: "Gligoric vs Stein no name",
@@ -3066,7 +3066,7 @@ export default [
 		opening: "(E70) King's Indian",
 		nbMoves: 57,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1282672.png"
+		finalPosition: "../images/positions/1282672.png"
 	},
 	{
 		title: "Yermolinsky vs L Christiansen no name",
@@ -3077,7 +3077,7 @@ export default [
 		opening: "(E10) Queen's Pawn Game",
 		nbMoves: 30,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1399208.png"
+		finalPosition: "../images/positions/1399208.png"
 	},
 	{
 		title: "Kramnik vs Shirov no name",
@@ -3088,7 +3088,7 @@ export default [
 		opening: "(D02) Queen's Pawn Game",
 		nbMoves: 43,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1085871.png"
+		finalPosition: "../images/positions/1085871.png"
 	},
 	{
 		title: "Timman vs Kasparov no name",
@@ -3099,7 +3099,7 @@ export default [
 		opening: "(C93) Ruy Lopez, Closed, Smyslov Defense",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070170.png"
+		finalPosition: "../images/positions/1070170.png"
 	},
 	{
 		title: "Bronstein vs E Rojahn no name",
@@ -3110,7 +3110,7 @@ export default [
 		opening: "(C58) Two Knights",
 		nbMoves: 38,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1033954.png"
+		finalPosition: "../images/positions/1033954.png"
 	},
 	{
 		title: "Taimanov vs Larsen no name",
@@ -3121,7 +3121,7 @@ export default [
 		opening: "(E39) Nimzo-Indian, Classical, Pirc Variation",
 		nbMoves: 34,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1138444.png"
+		finalPosition: "../images/positions/1138444.png"
 	},
 	{
 		title: "Keres vs D Byrne no name",
@@ -3132,7 +3132,7 @@ export default [
 		opening: "(D94) Grunfeld",
 		nbMoves: 33,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1073400.png"
+		finalPosition: "../images/positions/1073400.png"
 	},
 	{
 		title: "Euwe vs Alekhine no name",
@@ -3143,7 +3143,7 @@ export default [
 		opening: "(D81) Grunfeld, Russian Variation",
 		nbMoves: 45,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1013094.png"
+		finalPosition: "../images/positions/1013094.png"
 	},
 	{
 		title: "Kamsky vs Karpov no name",
@@ -3154,7 +3154,7 @@ export default [
 		opening: "(B17) Caro-Kann, Steinitz Variation",
 		nbMoves: 49,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1066717.png"
+		finalPosition: "../images/positions/1066717.png"
 	},
 	{
 		title: "Karpov vs Csom no name",
@@ -3165,7 +3165,7 @@ export default [
 		opening: "(A16) English",
 		nbMoves: 50,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1067981.png"
+		finalPosition: "../images/positions/1067981.png"
 	},
 	{
 		title: "Browne vs Bisguier no name",
@@ -3176,7 +3176,7 @@ export default [
 		opening: "(C42) Petrov Defense",
 		nbMoves: 40,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1028581.png"
+		finalPosition: "../images/positions/1028581.png"
 	},
 	{
 		title: "Anderssen vs Morphy no name",
@@ -3187,7 +3187,7 @@ export default [
 		opening: "(C77) Ruy Lopez",
 		nbMoves: 51,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1019054.png"
+		finalPosition: "../images/positions/1019054.png"
 	},
 	{
 		title: "Keres vs K Richter no name",
@@ -3198,7 +3198,7 @@ export default [
 		opening: "(A28) English",
 		nbMoves: 59,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1072028.png"
+		finalPosition: "../images/positions/1072028.png"
 	},
 	{
 		title: "J Klavins vs Tal no name",
@@ -3209,7 +3209,7 @@ export default [
 		opening: "(B99) Sicilian, Najdorf, 7...Be7 Main line",
 		nbMoves: 45,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1139462.png"
+		finalPosition: "../images/positions/1139462.png"
 	},
 	{
 		title: "Tal vs Lisitsin no name",
@@ -3220,7 +3220,7 @@ export default [
 		opening: "(B71) Sicilian, Dragon, Levenfish Variation",
 		nbMoves: 54,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139306.png"
+		finalPosition: "../images/positions/1139306.png"
 	},
 	{
 		title: "Botvinnik vs Reshevsky no name",
@@ -3231,7 +3231,7 @@ export default [
 		opening: "(E29) Nimzo-Indian, Samisch",
 		nbMoves: 42,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1032174.png"
+		finalPosition: "../images/positions/1032174.png"
 	},
 	{
 		title: "Capablanca vs M Fonaroff no name",
@@ -3242,7 +3242,7 @@ export default [
 		opening: "(C66) Ruy Lopez",
 		nbMoves: 22,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1265585.png"
+		finalPosition: "../images/positions/1265585.png"
 	},
 	{
 		title: "M Lazarevic vs N Gaprindashvili no name",
@@ -3253,7 +3253,7 @@ export default [
 		opening: "(A02) Bird's Opening",
 		nbMoves: 33,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1270326.png"
+		finalPosition: "../images/positions/1270326.png"
 	},
 	{
 		title: "Szabo vs G Sigurjonsson no name",
@@ -3264,7 +3264,7 @@ export default [
 		opening: "(D47) Queen's Gambit Declined Semi-Slav",
 		nbMoves: 40,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1137380.png"
+		finalPosition: "../images/positions/1137380.png"
 	},
 	{
 		title: "H J Cordes vs Miles no name",
@@ -3275,7 +3275,7 @@ export default [
 		opening: "(E21) Nimzo-Indian, Three Knights",
 		nbMoves: 36,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1097651.png"
+		finalPosition: "../images/positions/1097651.png"
 	},
 	{
 		title: "A Ostapenko vs S Kurkin no name",
@@ -3286,7 +3286,7 @@ export default [
 		opening: "(B82) Sicilian, Scheveningen",
 		nbMoves: 30,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1306168.png"
+		finalPosition: "../images/positions/1306168.png"
 	},
 	{
 		title: "F Catheley vs M Hadzikaric no name",
@@ -3297,7 +3297,7 @@ export default [
 		opening: "(A10) English",
 		nbMoves: 31,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1286111.png"
+		finalPosition: "../images/positions/1286111.png"
 	},
 	{
 		title: "A Shashin vs Korchnoi no name",
@@ -3308,7 +3308,7 @@ export default [
 		opening: "(E56) Nimzo-Indian, 4.e3, Main line with 7...Nc6",
 		nbMoves: 35,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1082235.png"
+		finalPosition: "../images/positions/1082235.png"
 	},
 	{
 		title: "V Ruban vs A Poluljahov no name",
@@ -3319,7 +3319,7 @@ export default [
 		opening: "(E94) King's Indian, Orthodox",
 		nbMoves: 28,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1266676.png"
+		finalPosition: "../images/positions/1266676.png"
 	},
 	{
 		title: "J Cukierman vs Tartakower no name",
@@ -3330,7 +3330,7 @@ export default [
 		opening: "(A47) Queen's Indian",
 		nbMoves: 25,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1328978.png"
+		finalPosition: "../images/positions/1328978.png"
 	},
 	{
 		title: "J Cukierman vs A Voisin no name",
@@ -3341,7 +3341,7 @@ export default [
 		opening: "(D02) Queen's Pawn Game",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1306150.png"
+		finalPosition: "../images/positions/1306150.png"
 	},
 	{
 		title: "P Moran Santamaria vs E Franco Raymundo no name",
@@ -3352,7 +3352,7 @@ export default [
 		opening: "(B64) Sicilian, Richter-Rauzer Attack",
 		nbMoves: 24,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1284185.png"
+		finalPosition: "../images/positions/1284185.png"
 	},
 	{
 		title: "Ni Hua vs M Mchedlishvili no name",
@@ -3363,7 +3363,7 @@ export default [
 		opening: "(E29) Nimzo-Indian, Samisch",
 		nbMoves: 37,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1366526.png"
+		finalPosition: "../images/positions/1366526.png"
 	},
 	{
 		title: "Alatortsev vs Boleslavsky no name",
@@ -3374,7 +3374,7 @@ export default [
 		opening: "(A54) Old Indian, Ukrainian Variation, 4.Nf3",
 		nbMoves: 27,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1262416.png"
+		finalPosition: "../images/positions/1262416.png"
 	},
 	{
 		title: "Gurgenidze vs Tal no name",
@@ -3385,7 +3385,7 @@ export default [
 		opening: "(A78) Benoni, Classical with ...Re8 and ...Na6",
 		nbMoves: 27,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1139346.png"
+		finalPosition: "../images/positions/1139346.png"
 	},
 	{
 		title: "N Bakulin vs Bronstein no name",
@@ -3396,7 +3396,7 @@ export default [
 		opening: "(B16) Caro-Kann, Bronstein-Larsen Variation",
 		nbMoves: 32,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1034335.png"
+		finalPosition: "../images/positions/1034335.png"
 	},
 	{
 		title: "Tal vs G Fuster no name",
@@ -3407,7 +3407,7 @@ export default [
 		opening: "(B17) Caro-Kann, Steinitz Variation",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139404.png"
+		finalPosition: "../images/positions/1139404.png"
 	},
 	{
 		title: "Fischer vs O Celle no name",
@@ -3418,7 +3418,7 @@ export default [
 		opening: "(C51) Evans Gambit",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1255208.png"
+		finalPosition: "../images/positions/1255208.png"
 	},
 	{
 		title: "Tal vs J H Donner no name",
@@ -3429,7 +3429,7 @@ export default [
 		opening: "(C18) French, Winawer",
 		nbMoves: 30,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139881.png"
+		finalPosition: "../images/positions/1139881.png"
 	},
 	{
 		title: "Kavalek vs Matulovic no name",
@@ -3440,7 +3440,7 @@ export default [
 		opening: "(A57) Benko Gambit",
 		nbMoves: 32,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1266941.png"
+		finalPosition: "../images/positions/1266941.png"
 	},
 	{
 		title: "E Nikolic vs Fischer no name",
@@ -3451,7 +3451,7 @@ export default [
 		opening: "(A10) English",
 		nbMoves: 31,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1044654.png"
+		finalPosition: "../images/positions/1044654.png"
 	},
 	{
 		title: "V Kozomara vs R Byrne no name",
@@ -3462,7 +3462,7 @@ export default [
 		opening: "(A00) Uncommon Opening",
 		nbMoves: 38,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1153948.png"
+		finalPosition: "../images/positions/1153948.png"
 	},
 	{
 		title: "Polugaevsky vs Petrosian no name",
@@ -3473,7 +3473,7 @@ export default [
 		opening: "(E54) Nimzo-Indian, 4.e3, Gligoric System",
 		nbMoves: 24,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1106473.png"
+		finalPosition: "../images/positions/1106473.png"
 	},
 	{
 		title: "Evans vs Bisguier no name",
@@ -3484,7 +3484,7 @@ export default [
 		opening: "(C42) Petrov Defense",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1028397.png"
+		finalPosition: "../images/positions/1028397.png"
 	},
 	{
 		title: "Smejkal vs Smyslov no name",
@@ -3495,7 +3495,7 @@ export default [
 		opening: "(B06) Robatsch",
 		nbMoves: 32,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1224539.png"
+		finalPosition: "../images/positions/1224539.png"
 	},
 	{
 		title: "Keres vs Geller no name",
@@ -3506,7 +3506,7 @@ export default [
 		opening: "(D41) Queen's Gambit Declined, Semi-Tarrasch",
 		nbMoves: 28,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1049065.png"
+		finalPosition: "../images/positions/1049065.png"
 	},
 	{
 		title: "Benko vs I A Horowitz no name",
@@ -3517,7 +3517,7 @@ export default [
 		opening: "(A12) English with b3",
 		nbMoves: 20,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1056942.png"
+		finalPosition: "../images/positions/1056942.png"
 	},
 	{
 		title: "Tal vs Gligoric no name",
@@ -3528,7 +3528,7 @@ export default [
 		opening: "(C93) Ruy Lopez, Closed, Smyslov Defense",
 		nbMoves: 46,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1139848.png"
+		finalPosition: "../images/positions/1139848.png"
 	},
 	{
 		title: "Ivkov vs J H Donner no name",
@@ -3539,7 +3539,7 @@ export default [
 		opening: "(C81) Ruy Lopez, Open, Howell Attack",
 		nbMoves: 21,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1061789.png"
+		finalPosition: "../images/positions/1061789.png"
 	},
 	{
 		title: "Tal vs E Nievergelt no name",
@@ -3550,7 +3550,7 @@ export default [
 		opening: "(B63) Sicilian, Richter-Rauzer Attack",
 		nbMoves: 37,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139492.png"
+		finalPosition: "../images/positions/1139492.png"
 	},
 	{
 		title: "Tal vs Bolbochan no name",
@@ -3561,7 +3561,7 @@ export default [
 		opening: "(B89) Sicilian",
 		nbMoves: 34,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1031329.png"
+		finalPosition: "../images/positions/1031329.png"
 	},
 	{
 		title: "Fischer vs P Dely no name",
@@ -3572,7 +3572,7 @@ export default [
 		opening: "(B88) Sicilian, Fischer-Sozin Attack",
 		nbMoves: 17,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1044262.png"
+		finalPosition: "../images/positions/1044262.png"
 	},
 	{
 		title: "Fischer vs Benko no name",
@@ -3583,7 +3583,7 @@ export default [
 		opening: "(B57) Sicilian",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1008387.png"
+		finalPosition: "../images/positions/1008387.png"
 	},
 	{
 		title: "A strategic masterpiece",
@@ -3594,7 +3594,7 @@ export default [
 		opening: "(A07) King's Indian Attack",
 		nbMoves: 48,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1037801.png"
+		finalPosition: "../images/positions/1037801.png"
 	},
 	{
 		title: "Tal vs F Olafsson no name",
@@ -3605,7 +3605,7 @@ export default [
 		opening: "(B48) Sicilian, Taimanov Variation",
 		nbMoves: 38,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139536.png"
+		finalPosition: "../images/positions/1139536.png"
 	},
 	{
 		title: "Stein vs Portisch no name",
@@ -3616,7 +3616,7 @@ export default [
 		opening: "(B42) Sicilian, Kan",
 		nbMoves: 21,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1112976.png"
+		finalPosition: "../images/positions/1112976.png"
 	},
 	{
 		title: "Spassky vs Suetin no name",
@@ -3627,7 +3627,7 @@ export default [
 		opening: "(B48) Sicilian, Taimanov Variation",
 		nbMoves: 59,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1134796.png"
+		finalPosition: "../images/positions/1134796.png"
 	},
 	{
 		title: "R Nezhmetdinov vs Tal no name",
@@ -3638,7 +3638,7 @@ export default [
 		opening: "(B84) Sicilian, Scheveningen",
 		nbMoves: 29,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1102235.png"
+		finalPosition: "../images/positions/1102235.png"
 	},
 	{
 		title: "Tal vs Gligoric no name",
@@ -3649,7 +3649,7 @@ export default [
 		opening: "(B99) Sicilian, Najdorf, 7...Be7 Main line",
 		nbMoves: 43,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1139642.png"
+		finalPosition: "../images/positions/1139642.png"
 	},
 	{
 		title: "Fischer vs Bolbochan no name",
@@ -3660,7 +3660,7 @@ export default [
 		opening: "(B90) Sicilian, Najdorf",
 		nbMoves: 37,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1031289.png"
+		finalPosition: "../images/positions/1031289.png"
 	},
 	{
 		title: "Larsen vs Petrosian no name",
@@ -3671,7 +3671,7 @@ export default [
 		opening: "(B39) Sicilian, Accelerated Fianchetto, Breyer Variation",
 		nbMoves: 30,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1106678.png"
+		finalPosition: "../images/positions/1106678.png"
 	},
 	{
 		title: "Spassky vs Geller no name",
@@ -3682,7 +3682,7 @@ export default [
 		opening: "(B25) Sicilian, Closed",
 		nbMoves: 32,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1049394.png"
+		finalPosition: "../images/positions/1049394.png"
 	},
 	{
 		title: "Stanishevsky vs Nikonov no name",
@@ -3693,7 +3693,7 @@ export default [
 		opening: "(B30) Sicilian",
 		nbMoves: 33,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1371041.png"
+		finalPosition: "../images/positions/1371041.png"
 	},
 	{
 		title: "Navara vs J Helbich no name",
@@ -3704,7 +3704,7 @@ export default [
 		opening: "(B99) Sicilian, Najdorf, 7...Be7 Main line",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1287309.png"
+		finalPosition: "../images/positions/1287309.png"
 	},
 	{
 		title: "Larsen vs Ljubojevic no name",
@@ -3715,7 +3715,7 @@ export default [
 		opening: "(A77) Benoni, Classical, 9...Re8, 10.Nd2",
 		nbMoves: 27,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1091560.png"
+		finalPosition: "../images/positions/1091560.png"
 	},
 	{
 		title: "T Nielsen vs Thormod Furu no name",
@@ -3726,7 +3726,7 @@ export default [
 		opening: "(A11) English, Caro-Kann Defensive System",
 		nbMoves: 15,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1173830.png"
+		finalPosition: "../images/positions/1173830.png"
 	},
 	{
 		title: "Romanishin vs Beliavsky no name",
@@ -3737,7 +3737,7 @@ export default [
 		opening: "(C15) French, Winawer",
 		nbMoves: 42,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1119108.png"
+		finalPosition: "../images/positions/1119108.png"
 	},
 	{
 		title: "Nimzowitsch vs Salwe no name",
@@ -3748,7 +3748,7 @@ export default [
 		opening: "(C02) French, Advance",
 		nbMoves: 39,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1000795.png"
+		finalPosition: "../images/positions/1000795.png"
 	},
 	{
 		title: "Radjabov vs Shirov no name",
@@ -3759,7 +3759,7 @@ export default [
 		opening: "(C69) Ruy Lopez, Exchange, Gligoric Variation",
 		nbMoves: 39,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1416246.png"
+		finalPosition: "../images/positions/1416246.png"
 	},
 	{
 		title: "Torre vs M A Schapiro no name",
@@ -3770,7 +3770,7 @@ export default [
 		opening: "(D30) Queen's Gambit Declined",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1144009.png"
+		finalPosition: "../images/positions/1144009.png"
 	},
 	{
 		title: "Torre vs Lasker no name",
@@ -3781,7 +3781,7 @@ export default [
 		opening: "(A46) Queen's Pawn Game",
 		nbMoves: 43,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1100063.png"
+		finalPosition: "../images/positions/1100063.png"
 	},
 	{
 		title: "Torre vs B Verlinsky no name",
@@ -3792,7 +3792,7 @@ export default [
 		opening: "(A47) Queen's Indian",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1100115.png"
+		finalPosition: "../images/positions/1100115.png"
 	},
 	{
 		title: "Torre vs F Duz-Khotimirsky no name",
@@ -3803,7 +3803,7 @@ export default [
 		opening: "(D02) Queen's Pawn Game",
 		nbMoves: 55,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1099999.png"
+		finalPosition: "../images/positions/1099999.png"
 	},
 	{
 		title: "Fine vs A Kevitz no name",
@@ -3814,7 +3814,7 @@ export default [
 		opening: "(A70) Benoni, Classical with 7.Nf3",
 		nbMoves: 32,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1043706.png"
+		finalPosition: "../images/positions/1043706.png"
 	},
 	{
 		title: "Fine vs Lasker no name",
@@ -3825,7 +3825,7 @@ export default [
 		opening: "(D37) Queen's Gambit Declined",
 		nbMoves: 33,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1008316.png"
+		finalPosition: "../images/positions/1008316.png"
 	},
 	{
 		title: "Capablanca vs Manhattan CC no name",
@@ -3836,7 +3836,7 @@ export default [
 		opening: "(D51) Queen's Gambit Declined",
 		nbMoves: 48,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1043696.png"
+		finalPosition: "../images/positions/1043696.png"
 	},
 	{
 		title: "Kavalek vs W Pietzsch no name",
@@ -3847,7 +3847,7 @@ export default [
 		opening: "(A22) English",
 		nbMoves: 30,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1153943.png"
+		finalPosition: "../images/positions/1153943.png"
 	},
 	{
 		title: "Wang Yue vs Ponomariov no name",
@@ -3858,7 +3858,7 @@ export default [
 		opening: "(A00) Uncommon Opening",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1333187.png"
+		finalPosition: "../images/positions/1333187.png"
 	},
 	{
 		title: "Kramnik vs Kasparov no name",
@@ -3869,7 +3869,7 @@ export default [
 		opening: "(E93) King's Indian, Petrosian System",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1070716.png"
+		finalPosition: "../images/positions/1070716.png"
 	},
 	{
 		title: "Anand vs Bologan no name",
@@ -3880,7 +3880,7 @@ export default [
 		opening: "(B17) Caro-Kann, Steinitz Variation",
 		nbMoves: 36,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1266094.png"
+		finalPosition: "../images/positions/1266094.png"
 	},
 	{
 		title: "Fischer vs Fine no name",
@@ -3891,7 +3891,7 @@ export default [
 		opening: "(C52) Evans Gambit",
 		nbMoves: 17,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1043992.png"
+		finalPosition: "../images/positions/1043992.png"
 	},
 	{
 		title: "A Steinkuehler vs Blackburne no name",
@@ -3902,7 +3902,7 @@ export default [
 		opening: "(C54) Giuoco Piano",
 		nbMoves: 22,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1028832.png"
+		finalPosition: "../images/positions/1028832.png"
 	},
 	{
 		title: "Chiburdanidze vs V Malaniuk no name",
@@ -3913,7 +3913,7 @@ export default [
 		opening: "(D85) Grunfeld",
 		nbMoves: 26,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1262417.png"
+		finalPosition: "../images/positions/1262417.png"
 	},
 	{
 		title: "Lilienthal vs Capablanca no name",
@@ -3924,7 +3924,7 @@ export default [
 		opening: "(E24) Nimzo-Indian, Samisch",
 		nbMoves: 26,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1090860.png"
+		finalPosition: "../images/positions/1090860.png"
 	},
 	{
 		title: "Karpov vs Topalov no name",
@@ -3935,7 +3935,7 @@ export default [
 		opening: "(A43) Old Benoni",
 		nbMoves: 36,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1038842.png"
+		finalPosition: "../images/positions/1038842.png"
 	},
 	{
 		title: "Tarrasch vs Marotti / Napoli / de Simone / del no name",
@@ -3946,7 +3946,7 @@ export default [
 		opening: "(A03) Bird's Opening",
 		nbMoves: 31,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1378821.png"
+		finalPosition: "../images/positions/1378821.png"
 	},
 	{
 		title: "Reshevsky vs Capablanca no name",
@@ -3957,7 +3957,7 @@ export default [
 		opening: "(D51) Queen's Gambit Declined",
 		nbMoves: 56,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1224079.png"
+		finalPosition: "../images/positions/1224079.png"
 	},
 	{
 		title: "Yakovich vs Bronstein no name",
@@ -3968,7 +3968,7 @@ export default [
 		opening: "(D26) Queen's Gambit Accepted",
 		nbMoves: 22,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1035115.png"
+		finalPosition: "../images/positions/1035115.png"
 	},
 	{
 		title: "J Rosanes vs Anderssen no name",
@@ -3979,7 +3979,7 @@ export default [
 		opening: "(C39) King's Gambit Accepted",
 		nbMoves: 23,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1019162.png"
+		finalPosition: "../images/positions/1019162.png"
 	},
 	{
 		title: "Anderssen vs Zukertort no name",
@@ -3990,7 +3990,7 @@ export default [
 		opening: "(C51) Evans Gambit",
 		nbMoves: 29,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1019346.png"
+		finalPosition: "../images/positions/1019346.png"
 	},
 	{
 		title: "J Rosanes vs Anderssen no name",
@@ -4001,7 +4001,7 @@ export default [
 		opening: "(C31) King's Gambit Declined, Falkbeer Counter Gambit",
 		nbMoves: 19,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1019123.png"
+		finalPosition: "../images/positions/1019123.png"
 	},
 	{
 		title: "Vitacek vs Duras no name",
@@ -4012,7 +4012,7 @@ export default [
 		opening: "(C22) Center Game",
 		nbMoves: 26,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1286992.png"
+		finalPosition: "../images/positions/1286992.png"
 	},
 	{
 		title: "Spielmann vs R L'hermet no name",
@@ -4023,7 +4023,7 @@ export default [
 		opening: "(C10) French",
 		nbMoves: 24,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1130889.png"
+		finalPosition: "../images/positions/1130889.png"
 	},
 	{
 		title: "Spielmann vs B Hoenlinger no name",
@@ -4034,7 +4034,7 @@ export default [
 		opening: "(B15) Caro-Kann",
 		nbMoves: 25,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1130925.png"
+		finalPosition: "../images/positions/1130925.png"
 	},
 	{
 		title: "Andersson vs Tal no name",
@@ -4045,7 +4045,7 @@ export default [
 		opening: "(D55) Queen's Gambit Declined",
 		nbMoves: 51,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1020244.png"
+		finalPosition: "../images/positions/1020244.png"
 	},
 	{
 		title: "Andersson vs Karpov no name",
@@ -4056,7 +4056,7 @@ export default [
 		opening: "(D28) Queen's Gambit Accepted, Classical",
 		nbMoves: 18,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1020945.png"
+		finalPosition: "../images/positions/1020945.png"
 	},
 	{
 		title: "Ljubojevic vs J Durao no name",
@@ -4067,7 +4067,7 @@ export default [
 		opening: "(C64) Ruy Lopez, Classical",
 		nbMoves: 25,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1091498.png"
+		finalPosition: "../images/positions/1091498.png"
 	},
 	{
 		title: "Geller vs Averbakh no name",
@@ -4078,7 +4078,7 @@ export default [
 		opening: "(A07) King's Indian Attack",
 		nbMoves: 46,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1321911.png"
+		finalPosition: "../images/positions/1321911.png"
 	},
 	{
 		title: "Nunn vs C Pritchett no name",
@@ -4089,7 +4089,7 @@ export default [
 		opening: "(B89) Sicilian",
 		nbMoves: 27,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1103407.png"
+		finalPosition: "../images/positions/1103407.png"
 	},
 	{
 		title: "Shen Yang vs Rublevsky no name",
@@ -4100,7 +4100,7 @@ export default [
 		opening: "(B42) Sicilian, Kan",
 		nbMoves: 47,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1366582.png"
+		finalPosition: "../images/positions/1366582.png"
 	},
 	{
 		title: "Smyslov vs Ribli no name",
@@ -4111,7 +4111,7 @@ export default [
 		opening: "(D42) Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1126740.png"
+		finalPosition: "../images/positions/1126740.png"
 	},
 	{
 		title: "Adams vs V Akopian no name",
@@ -4122,7 +4122,7 @@ export default [
 		opening: "(C10) French",
 		nbMoves: 25,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1290140.png"
+		finalPosition: "../images/positions/1290140.png"
 	},
 	{
 		title: "Petrosian vs Balashov no name",
@@ -4133,7 +4133,7 @@ export default [
 		opening: "(E54) Nimzo-Indian, 4.e3, Gligoric System",
 		nbMoves: 28,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1024306.png"
+		finalPosition: "../images/positions/1024306.png"
 	},
 	{
 		title: "Gelfand vs Kramnik no name",
@@ -4144,7 +4144,7 @@ export default [
 		opening: "(C10) French",
 		nbMoves: 26,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1302183.png"
+		finalPosition: "../images/positions/1302183.png"
 	},
 	{
 		title: "E M Jackson vs Marshall no name",
@@ -4155,7 +4155,7 @@ export default [
 		opening: "(C24) Bishop's Opening",
 		nbMoves: 30,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1094456.png"
+		finalPosition: "../images/positions/1094456.png"
 	},
 	{
 		title: "L Christiansen vs Wojtkiewicz no name",
@@ -4166,7 +4166,7 @@ export default [
 		opening: "(B87) Sicilian, Fischer-Sozin with ...a6 and ...b5",
 		nbMoves: 23,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1398825.png"
+		finalPosition: "../images/positions/1398825.png"
 	},
 	{
 		title: "Gheorghiu vs Kavalek no name",
@@ -4177,7 +4177,7 @@ export default [
 		opening: "(E83) King's Indian, Samisch",
 		nbMoves: 25,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1433395.png"
+		finalPosition: "../images/positions/1433395.png"
 	},
 	{
 		title: "Polugaevsky vs Ftacnik no name",
@@ -4188,7 +4188,7 @@ export default [
 		opening: "(A30) English, Symmetrical",
 		nbMoves: 29,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1045547.png"
+		finalPosition: "../images/positions/1045547.png"
 	},
 	{
 		title: "Shirov vs Polgar no name",
@@ -4199,7 +4199,7 @@ export default [
 		opening: "(B45) Sicilian, Taimanov",
 		nbMoves: 29,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1111195.png"
+		finalPosition: "../images/positions/1111195.png"
 	},
 	{
 		title: "Maroczy vs Chigorin no name",
@@ -4210,7 +4210,7 @@ export default [
 		opening: "(C37) King's Gambit Accepted",
 		nbMoves: 24,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1036581.png"
+		finalPosition: "../images/positions/1036581.png"
 	},
 	{
 		title: "Kamsky vs Kramnik no name",
@@ -4221,7 +4221,7 @@ export default [
 		opening: "(D44) Queen's Gambit Declined Semi-Slav",
 		nbMoves: 41,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1066737.png"
+		finalPosition: "../images/positions/1066737.png"
 	},
 	{
 		title: "Sultan Khan vs Capablanca no name",
@@ -4232,7 +4232,7 @@ export default [
 		opening: "(E12) Queen's Indian",
 		nbMoves: 65,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1135510.png"
+		finalPosition: "../images/positions/1135510.png"
 	},
 	{
 		title: "Kharlov vs Topalov no name",
@@ -4243,7 +4243,7 @@ export default [
 		opening: "(C24) Bishop's Opening",
 		nbMoves: 53,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1292559.png"
+		finalPosition: "../images/positions/1292559.png"
 	},
 	{
 		title: "Landa vs E Shaposhnikov no name",
@@ -4254,7 +4254,7 @@ export default [
 		opening: "(B18) Caro-Kann, Classical",
 		nbMoves: 24,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1340107.png"
+		finalPosition: "../images/positions/1340107.png"
 	},
 	{
 		title: "Marshall vs Janowski no name",
@@ -4265,7 +4265,7 @@ export default [
 		opening: "(B45) Sicilian, Taimanov",
 		nbMoves: 47,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1094454.png"
+		finalPosition: "../images/positions/1094454.png"
 	},
 	{
 		title: "Sutovsky vs Smirin no name",
@@ -4276,7 +4276,7 @@ export default [
 		opening: "(B25) Sicilian, Closed",
 		nbMoves: 24,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1278763.png"
+		finalPosition: "../images/positions/1278763.png"
 	},
 	{
 		title: "Kramnik vs Anand no name",
@@ -4287,7 +4287,7 @@ export default [
 		opening: "(D27) Queen's Gambit Accepted, Classical",
 		nbMoves: 39,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1173387.png"
+		finalPosition: "../images/positions/1173387.png"
 	},
 	{
 		title: "Gelfand vs B Kantsler no name",
@@ -4298,7 +4298,7 @@ export default [
 		opening: "(E98) King's Indian, Orthodox, Taimanov, 9.Ne1",
 		nbMoves: 34,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1361795.png"
+		finalPosition: "../images/positions/1361795.png"
 	},
 	{
 		title: "I Sokolov vs Dreev no name",
@@ -4309,7 +4309,7 @@ export default [
 		opening: "(D44) Queen's Gambit Declined Semi-Slav",
 		nbMoves: 31,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1218523.png"
+		finalPosition: "../images/positions/1218523.png"
 	},
 	{
 		title: "Svidler vs Adams no name",
@@ -4320,7 +4320,7 @@ export default [
 		opening: "(C78) Ruy Lopez",
 		nbMoves: 34,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1321967.png"
+		finalPosition: "../images/positions/1321967.png"
 	},
 	{
 		title: "Topalov vs Ivanchuk no name",
@@ -4331,7 +4331,7 @@ export default [
 		opening: "(A04) Reti Opening",
 		nbMoves: 25,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1406152.png"
+		finalPosition: "../images/positions/1406152.png"
 	},
 	{
 		title: "Nunn vs I Nataf no name",
@@ -4342,7 +4342,7 @@ export default [
 		opening: "(B32) Sicilian",
 		nbMoves: 28,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1333500.png"
+		finalPosition: "../images/positions/1333500.png"
 	},
 	{
 		title: "A Veingold vs Fridman no name",
@@ -4353,7 +4353,7 @@ export default [
 		opening: "(D44) Queen's Gambit Declined Semi-Slav",
 		nbMoves: 36,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1361793.png"
+		finalPosition: "../images/positions/1361793.png"
 	},
 	{
 		title: "Gelfand vs Shirov no name",
@@ -4364,7 +4364,7 @@ export default [
 		opening: "(D85) Grunfeld",
 		nbMoves: 39,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1268704.png"
+		finalPosition: "../images/positions/1268704.png"
 	},
 	{
 		title: "Karjakin vs Malinin no name",
@@ -4375,7 +4375,7 @@ export default [
 		opening: "(C45) Scotch Game",
 		nbMoves: 20,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1253303.png"
+		finalPosition: "../images/positions/1253303.png"
 	},
 	{
 		title: "Anand vs Radjabov no name",
@@ -4386,7 +4386,7 @@ export default [
 		opening: "(B32) Sicilian",
 		nbMoves: 39,
 		score: "0-1",
-		finalPosition: "./public/images/positions/1266078.png"
+		finalPosition: "../images/positions/1266078.png"
 	},
 	{
 		title: "Nakamura vs J Fluvia Poyatos no name",
@@ -4397,6 +4397,6 @@ export default [
 		opening: "(D80) Grunfeld",
 		nbMoves: 43,
 		score: "1-0",
-		finalPosition: "./public/images/positions/1477096.png"
+		finalPosition: "../images/positions/1477096.png"
 	}
 ]
