@@ -1,5 +1,5 @@
 # Overview
-React, HTML, CSS. I train my frontend skills publishing some famous chess games.
+React, HTML, CSS. I train my frontend skills and by ability to bind data from file publishing some famous chess games.
 
 # Methodology
 1) I retrieved a compilation of games from Timothy Glenn Forney, that you can find out here : https://www.chessgames.com/perl/chesscollection?cid=1001601
