@@ -36,7 +36,26 @@ code {
 
 .main-part {
   background-color: var(--light-color);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10%;
+  padding: 2% 4%;
+  
 }
+
+/* Game Card */
+
+.game-card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.game-image {
+  max-width: 400px;
+}
+
 
 /* Footer Part */
 
@@ -44,3 +63,5 @@ code {
   background-color: var(--dark-color);
   color: var(--light-color);
 }
+
+
