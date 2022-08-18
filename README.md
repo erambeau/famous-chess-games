@@ -1,5 +1,19 @@
 # Overview
-React, HTML, CSS. I train my frontend skills publishing some famous chess games. Work in progress.
+React, HTML, CSS. I train my frontend skills publishing some famous chess games.
+
+# Methodology
+1) I retrieved a compilation of games from Timothy Glenn Forney, that you can fint out here : https://www.chessgames.com/perl/chesscollection?cid=1001601
+2) I parsed all the data with regular expression. I love regular expressions. You can see the raw data, the transformations and the final file in the folder src/data
+3) I took screenshots manually for 10 games. 
+4) I built the React app in order to display all the data that I just retrieved. I added some interactivity & redirection to the full game on chessgames.com
+
+# Final result
+
+Et voilà.
+
+![Demo](public/images/demo/demo.png)
+
+Feel free to clone the project, and run it with a `npm start` => http://localhost:3000 
 
 # Getting Started with Create React App
 
