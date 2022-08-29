@@ -1,11 +1,11 @@
 import React from 'react'
 import GameCard from '../features/GameCard'
-import data from '../data/chessgames_data'
+import chessGames from '../data/chessgames_data'
 
 
 function MainContent() {
 
-  const cards = data.slice(0, 10).map(item => {
+  const cards = chessGames.slice(0, 10).map(item => {
     return (
       <GameCard 
                 key={item.chessgameid}

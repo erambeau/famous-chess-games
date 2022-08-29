@@ -1,4 +1,4 @@
-export default [
+const chessGames = [
 	{
 		title: "Kasparov's Immortal",
 		chessgameid: 1011478,
@@ -4400,3 +4400,6 @@ export default [
 		finalPosition: "/positions/1477096.png"
 	}
 ]
+
+
+export default chessGames;
