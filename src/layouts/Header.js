@@ -4,7 +4,7 @@ function Header() {
   return (
     <nav className="nav-header">
         <div className='nav-header--title'>
-            <img src={process.env.PUBLIC_URL+"/images/pieces/Chess_qlt60.png"} className='nav-header--logo' alt="Famous Chess Games" />
+            
             <h1>Famous chess games</h1>
         </div>
         <div className='nav-header--credits'>
